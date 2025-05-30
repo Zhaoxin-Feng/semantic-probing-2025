@@ -1,0 +1,2801 @@
+Sentence,Target Word
+It was a narrow defeat .,defeat
+The army 's only defeat .,defeat
+groom the dog .,groom
+sheila groom the horse .,groom
+The penetration of upper management by women .,penetration
+"Any penetration , however slight , is sufficient to complete the offense .",penetration
+We hit Detroit at one in the morning but kept driving through the night .,hit
+An interesting idea hit her .,hit
+He was a man of judicial deliberation .,deliberation
+A little deliberation would have deterred them .,deliberation
+They argued whether or not Adam had a navel .,navel
+You were not supposed to show your navel on television .,navel
+"After we leave the quarry , we intend to afforest the land and turn it into a nature reserve .",afforest
+afforest the mountain .,afforest
+solve an old debt .,solve
+Did you solve the problem ?,solve
+They offer a free hamburger with the purchase of a drink .,purchase
+They closed the purchase with a handshake .,purchase
+Did you test the software package to ensure completeness ?,software
+The market for software is expected to expand .,software
+Some details got lost in the push to get the project done .,push
+The army made a push toward the sea .,push
+Idaho potatoes bake beautifully .,bake
+this oven bake potato .,bake
+relieve the pressure and the stress .,relieve
+This pill will relieve your headaches .,relieve
+In the characteristic New York style .,style
+This style of shoe is in demand .,style
+crumb the table .,crumb
+crumb a cutlet .,crumb
+I include you in the list of culprits .,include
+the list include the name of many famous writer .,include
+His dog has been his trusted companion for the last five years .,companion
+drinking companion .,companion
+The actress wo  not reveal how old she is .,reveal
+he reveal the child find .,reveal
+"I 'm convinced that there was a presence in that building that I ca  not explain , which led to my heroic actions .",presence
+She blushed in his presence .,presence
+Do  not relax your efforts now .,relax
+the rule relax after the new director arrive .,relax
+parity be often use to check the integrity of transmit datum .,parity
+The parity of the mother must be considered .,parity
+"To raise a wall , or a heap of stones .",raise
+raise a barn .,raise
+suspend the particle .,suspend
+the prison sentence be suspend .,suspend
+To amass a treasure or a fortune .,amass
+she be amass a lot of datum for her thesis .,amass
+A healthy baby born at full term .,term
+he learn many medical term .,term
+He 's always gotten a long leash .,leash
+Kept a tight leash on his emotions .,leash
+The conversion of equations .,conversion
+His conversion to the Catholic faith .,conversion
+The making of measurements .,making
+It was already in the making .,making
+Before the set of sun .,set
+they play two set of tennis after dinner .,set
+He lost the mate to his shoe .,mate
+camel hate leave their mate .,mate
+They stared at the newcomer with a puzzled expression .,expression
+His manner of expression showed how much he cared .,expression
+rim a hat .,rim
+sugar rim the dessert plate .,rim
+cure meat .,cure
+cure hay .,cure
+"My marriage is in trouble , the fight created a rift between us and we ca  not reconnect .",rift
+"The Grand Canyon is a rift in the Earth 's surface , but is smaller than some of the undersea ones .",rift
+We had to swim for 20 minutes to reach the shore .,swim
+a big fish be swim in the tank .,swim
+The teacher did her best to quiet the children down .,quiet
+"When you quiet , we can start talking .",quiet
+At the top of his profession .,top
+"To be at the top of one 's class , or at the top of the school .",top
+A consultation of several medical specialists .,consultation
+frequent consultation with his lawyer .,consultation
+She refused to chiromance my fate .,chiromance
+the gypsies chiromance .,chiromance
+bank on your good education .,bank
+The pilot had to bank the aircraft .,bank
+rag that old tune .,rag
+rag ore .,rag
+work equal force times distance .,work
+work be do against friction to drag a bag along the ground .,work
+He objected to the allowance of smoking in the dining room .,allowance
+A child 's allowance should not be too generous .,allowance
+Litmus paper turns red on contact with an acid .,contact
+he use his business contact to get an introduction to the governor .,contact
+The virus of jealousy is latent in everyone .,virus
+He caught a virus and had to stay home from school .,virus
+"The sensitive subject was treated with humour , but in such way that no one was offended .",humour
+"She has a great sense of humour , and I always laugh a lot whenever we get together .",humour
+What is the closest neighbor to the Earth ?,neighbor
+Fort Worth is a neighbor of Dallas .,neighbor
+He could not control the sinking of his legs .,sinking
+After several hours of sinking an unexpected rally rescued the market .,sinking
+sneak a look .,sneak
+sneak a cigarette .,sneak
+fix your eye on this spot .,fix
+fix a race .,fix
+The impulse knocked him over .,impulse
+The total impulse from the impact will depend on the kinetic energy of the bullet .,impulse
+I know a guy who has a foot fetish .,fetish
+"common male fetish be breast , leg , hair , shoe , and underwear .",fetish
+"The seizure of a thief , a property , a throne , etc .",seizure
+The search warrant permitted the seizure of evidence .,seizure
+The American constitution has provided a pattern for many republics .,pattern
+They changed their dietary pattern .,pattern
+A person of unflagging conscience .,conscience
+He has no conscience about his cruelty .,conscience
+The article was written to demystify the mechanics of the internal combustion engine .,demystify
+Let 's demystify the event by explaining what it is all about .,demystify
+We need more volunteers for the netball team .,team
+The IT manager leads a team of three software developers .,team
+You can not conduct business like this .,conduct
+To conduct the affairs of a kingdom .,conduct
+administer critical remark to everyone present .,administer
+she administer the fund .,administer
+I wasted a year of my life working on an abort .,abort
+He sent a short message requesting an abort due to extreme winds in the area .,abort
+She collected old glass .,glass
+We collected art glass .,glass
+The senator said he would oppose the bill .,oppose
+the board oppose his motion .,oppose
+My plan is to wait to have sex until i 'm married .,married
+we invite several young married .,married
+A computer system provides utility programs to perform the tasks needed by most users .,utility
+i have bought a new disk utility that can recover deleted files .,utility
+` The ball was thrown by the boy ' uses the passive voice .,passive
+` The ball was thrown ' is an abbreviated passive .,passive
+hold in place .,hold
+she always hold herself as a lady .,hold
+A bit of paper .,bit
+A bit of rock caught him in the eye .,bit
+induce a crisis .,induce
+the ad induce i to buy a vcr .,induce
+Convention center .,center
+they receive message from several center .,center
+Morale is an important quality in soldiers . With good morale they 'll charge into a hail of bullets ; without it they wo  not even cross a street .,morale
+"After the layoffs morale was at an all time low , they were so dispirited nothing was getting done .",morale
+Military security has been stepped up since the recent uprising .,security
+The head of security was a former policeman .,security
+The author gives a depressing picture of life in Poland .,picture
+too often the narrative be interrupt by long word picture .,picture
+I judge a man 's character by the cut of his suit .,judge
+I can not judge some works of modern art .,judge
+The cast would need a great deal of machining to become a recognizable finished part .,cast
+The cast was praised for a fine performance .,cast
+Do  not fire until you see the whites of their eyes .,fire
+the gun fire .,fire
+This story will grab you .,grab
+grab power .,grab
+We share a passion for books .,passion
+He has a passion for cock fighting .,passion
+Can you read Greek ?,read
+The gauge read ` empty ' .,read
+roast the turkey .,roast
+To roast meat on a spit .,roast
+He came to the party in formal dress .,dress
+Fastidious about his dress .,dress
+How could I miss that typo ?,miss
+The workers on the conveyor belt miss one out of ten .,miss
+We have to rerun the subjects -- they misunderstood the instructions .,rerun
+Bush wants to rerun in 1996 .,rerun
+Be careful not to chip the paint .,chip
+chip a tooth .,chip
+They share a language .,share
+To share a shelter with another .,share
+A heavy chap who must have weighed more than twenty stone .,stone
+she have jewel make of all the rare stone .,stone
+Would counsel please approach the bench ? asked the judge .,approach
+he approach the age of manhood .,approach
+restore the emperor to the throne .,restore
+To restore harmony among those who are at variance .,restore
+The results of the election will be announced tonight .,election
+They celebrated his election .,election
+Saved by the bell .,bell
+she hear the distant toll of church bell .,bell
+Economic logic requires it .,logic
+By the logic of war .,logic
+"After putting oil on the side of the salad , the chef should drip a little vinegar in the oil .",drip
+my broken pen drip ink onto the table .,drip
+He acted very wise after the event .,event
+"In that event , the first possibility is excluded .",event
+He bought it on approval .,approval
+"Although she fussed at them , she secretly viewed all her children with approval .",approval
+Thick cut marmalade .,marmalade
+Lime marmalade .,marmalade
+Parents must feed and dress their child .,dress
+i rise and dress before daybreak .,dress
+You can compute the area of a square if you know the length of its sides .,square
+a checkerboard have 64 square .,square
+He took a trip to the shopping center .,trip
+We made a trip to the beach .,trip
+He was a model of polite restraint .,restraint
+The unlawful restraint of trade .,restraint
+There is plenty of comfortable seating .,seating
+There is seating for 40 students in this classroom .,seating
+The irony of Ireland 's copying the nation she most hated .,irony
+irony be waste on the stupid .,irony
+The skirt had a wide flare .,flare
+She could not control her flare of rage .,flare
+internationalize trade of certain drug .,internationalize
+we internationalize the committee .,internationalize
+She enjoyed the queen 's favor .,favor
+To fall out of favor .,favor
+I asked him to sit .,sit
+she sit on the jury .,sit
+shore and buttress an old building .,shore
+the river be shore by tree .,shore
+The storm was  not long but it was a snorter .,snorter
+A snorter of a sermon .,snorter
+Tyrannical government .,government
+He had considerable experience of government .,government
+Maine is a leading producer of potatoes .,producer
+This microorganism is a producer of disease .,producer
+The architect wants to step the terrace .,step
+she be always step on other to get ahead .,step
+"If you put the brakes on too hard , the wheels will lock .",lock
+she lock her jewel in the safe .,lock
+The reporter gave the witness an interview .,interview
+my interview with teenager reveal a weakening of religious bond .,interview
+In my estimation the boy is innocent .,estimation
+They had a high estimation of his ability .,estimation
+A traffic backup on the main street .,backup
+He discovered a backup in the toilet .,backup
+lubricate my car .,lubricate
+the liquid in this can lubricate well .,lubricate
+Dishwashers wash dishes much more efficiently than most humans .,wash
+"wash the towel , please !",wash
+The hound has a good nose .,nose
+The nose of the rocket heated up on reentry .,nose
+He felt the presence of an evil force .,presence
+He sensed the presence of danger .,presence
+The dining room had an ornate ceiling .,ceiling
+He put a ceiling on the number of women who worked for him .,ceiling
+You have brought ruin on this entire family .,ruin
+they explore several roman ruin .,ruin
+bandage an incision .,bandage
+the nurse bandage a sprain ankle .,bandage
+"I was sitting on the sofa for a long time , I was too lazy to move .",move
+we move from our previous position .,move
+He noticed a conflict in the dates of the two meetings .,conflict
+This form of conflict is essential to Mann 's writing .,conflict
+People are needed who have experience in cookery .,cookery
+Henry was not very good at cookery and most of his meals ended up burned .,cookery
+A public image is as fragile as Humpty Dumpty .,image
+a movie be a series of image project so rapidly that the eye integrate they .,image
+He heard the beat of a drum .,beat
+The conductor set the beat .,beat
+pitch a tent .,pitch
+pitch the tent over there .,pitch
+The marginalization of the underclass .,marginalization
+The marginalization of literature .,marginalization
+Two plus two equals four .,plus
+Four plus three equals seven .,plus
+He was a god among men .,god
+Money was his god .,god
+defang the poisonous snake .,defang
+the snake be defang .,defang
+The school was founded in 1900 .,school
+When the school day was done we would walk home together .,school
+Hobbies enrich lives .,enrich
+the oil boom enrich a lot of local people .,enrich
+A windshield with good visibility .,visibility
+That candidate does not have sufficient visibility to win an election .,visibility
+post a sign .,post
+I 'll post the news on the bulletin board .,post
+The adhesion of Seville was decisive .,adhesion
+A heated hydraulic press was required for adhesion .,adhesion
+My sister is always driving me crazy .,sister
+My sister married a musician .,sister
+expose the blanket to sunshine .,expose
+expose your student to art .,expose
+The sound of rain on the roof .,sound
+The beautiful sound of music .,sound
+The door closed with a jolt .,jolt
+all the jar and jolt be smooth out by the shock absorber .,jolt
+sketch the building .,sketch
+sketch the outline of the book .,sketch
+There was not enough fill for the trench .,fill
+The mixer returned to the plant for another fill .,fill
+The depth of the water .,depth
+depth of a closet .,depth
+Can you help me organize my files ?,organize
+organize a strike .,organize
+He stepped on the gas .,gas
+the atmosphere be make up of a number of different gas .,gas
+Nuclear disarmament and nonproliferation are closely related goals .,nonproliferation
+They protested that the nonproliferation treaty was just a plot to maintain the hegemony of those who already had nuclear weapons .,nonproliferation
+rig a ship .,rig
+they rig the bomb to the ignition .,rig
+The roommates lived in peace together .,peace
+peace come on november 11th .,peace
+Too many laws are a drag on the use of new land .,drag
+Taxation is a drag on the economy .,drag
+introduce the new neighbor to the community .,introduce
+a new word processor be introduce .,introduce
+Give him a shtik cake .,shtik
+His shtik made us laugh .,shtik
+All of human history .,history
+history take the long view .,history
+harness natural force and resource .,harness
+harness the horse .,harness
+The clatter of iron wheels on cobblestones .,clatter
+clatter of shutter .,clatter
+Islam is a major religion in parts of Asia and Africa .,religion
+Eckankar is a new religion but Zoroastrianism is an old religion .,religion
+We all managed to squash into Mum 's tiny car .,squash
+"somehow , she squash all her book into her backpack , which be now too heavy to carry .",squash
+She did  not want to know the sex of the foetus .,sex
+slime mold be sometimes erroneously say to have thirteen sex .,sex
+I estimate this chicken to weigh three pounds .,estimate
+he estimate what would be likely .,estimate
+The bubble burst .,burst
+"I blew the balloon up too much , and it burst .",burst
+I do  not relish the idea of going out tonight .,relish
+he relish their time together .,relish
+twist one 's head .,twist
+twist the strip of dough .,twist
+Would you like to go sailing on my uncle 's yacht ?,yacht
+You are a true yachtsman ! Are you a member of the local yacht club ?,yacht
+This mushrooms can poison .,poison
+her husband poison her drink in order to kill she .,poison
+The left guard was injured on the play .,guard
+guard must be good blocker .,guard
+unleash the dog in the park .,unleash
+he unleash his dog in the park .,unleash
+glorify one 's spouse 's cooking .,glorify
+you be glorify a rather mediocre building .,glorify
+I′d recommend backing up these files to storage before reinstalling the operating system .,storage
+There 's a lot of storage space in the loft .,storage
+Here we enter the region of opinion .,region
+the equatorial region .,region
+there be rock all over the garden .,rock
+"Thou art Peter , and upon this rock I will build my church -- Gospel According to Matthew .",rock
+A patch of bad weather .,patch
+"when ice skating , be sure to stay away from reed , there be always thin patch of ice there and you could fall through .",patch
+The white zone is for loading and unloading only .,zone
+There is a no-smoking zone that extends 25 feet outside of each entrance .,zone
+score the sat essay .,score
+she score high on the sat .,score
+Transdermal scopolamine is used to treat motion sickness .,scopolamine
+Someone sedated with scopolamine has difficulty lying .,scopolamine
+rake leave .,rake
+the enemy machine gun rake the roadway .,rake
+His emphasis on civil rights .,emphasis
+He used a yellow highlighter to indicate where to give emphasis in his speech .,emphasis
+The information explosion .,explosion
+An explosion of laughter .,explosion
+Mr. Jones will assume the position of a lifeguard until a proper replacement is found .,assume
+she assume strange manner .,assume
+There are both gays and heteros in this nightclub .,nightclub
+the gossip columnist get his information by visit nightclub every night .,nightclub
+flex your wrist .,flex
+flex a muscle .,flex
+nail the board onto the wall .,nail
+The chemists could not nail the identity of the chromosome .,nail
+Social groups form everywhere .,form
+they form a company .,form
+hoist the flag .,hoist
+hoist a sail .,hoist
+The general had to sacrifice several soldiers to save the regiment .,sacrifice
+the animal be sacrifice after the experiment .,sacrifice
+summon a lawyer .,summon
+summon all your courage .,summon
+"A $ 10,000 bond was furnished by an alderman .",bond
+"organic chemistry primarily consist of the study of carbon bond , in their many variation .",bond
+It seeped along the hem of his jacket .,hem
+Let down the hem .,hem
+We 're on the side of right in this contest .,right
+mineral right .,right
+I can feel the sadness in his poems .,feel
+the runner feel her pulse .,feel
+She did not understand her husband .,understand
+I understand him to be a good doctor .,understand
+I have a house and a car .,have
+i have got a house in the country .,have
+chop a hole in the ground .,chop
+chop meat .,chop
+St. Valentine 's Day massacre .,massacre
+The massacre on St. Bartholomew 's Day .,massacre
+The horse won by a neck .,neck
+He admired her long graceful neck .,neck
+belt your trouser .,belt
+"the rotund man have difficulty belt his pant , and generally wear suspender to avoid the issue .",belt
+Matters of a personal nature .,nature
+The true nature of jealousy .,nature
+The pedal of a loom .,pedal
+"there be three pedal on manual car , two on automatic .",pedal
+The cinema is right across the street from the restaurant .,cinema
+This story would be good cinema .,cinema
+She and her husband would join in the general stampede . -W. Black .,stampede
+When he shouted ` fire ' there was a stampede to the exits .,stampede
+He spent hours  read to the blind .,blind
+they have just move in and have not put up blind yet .,blind
+Appalled by the totality of the destruction .,totality
+The totality of war and its consequences .,totality
+The course had only nine holes .,course
+The course was less than a mile .,course
+There was a wedding in the offing .,offing
+There was a ship in the offing .,offing
+The crash intruded on his awareness .,awareness
+I gradually passed from sleep to full awareness .,awareness
+remove a case to another court .,remove
+he remove his child to the countryside .,remove
+"If you bend it too much , it will snap .",snap
+he snap his stick in anger .,snap
+style the dress .,style
+style my hair .,style
+It was beneath his dignity to cheat .,dignity
+Showed his true dignity when under pressure .,dignity
+The poets constellate in this town every summer .,constellate
+hill constellate with light .,constellate
+"To roll a wheel , a ball , or a barrel .",roll
+the ball roll .,roll
+On a friendly footing .,footing
+They were on a friendly footing .,footing
+The physicist used his conjecture about subatomic particles to design an experiment .,conjecture
+"I explained it , but it is pure conjecture whether he understood , or not .",conjecture
+I filled the bottle up to the 500ml mark .,mark
+His arrow hit the mark .,mark
+It is important to acknowledge the work of others in one 's own writing .,acknowledge
+the crown prince be acknowledge as the true heir to the throne .,acknowledge
+When that became known the price of their stock went into free fall .,fall
+In the fall of 1973 .,fall
+She has felt pressure lately because her boss expects her to get the job done by the first .,pressure
+The public brought pressure to bear on the government .,pressure
+The identity under numerical multiplication is 1 .,identity
+She guessed the identity of his lover .,identity
+clear a debt .,clear
+clear your desk .,clear
+She threw a tantrum .,tantrum
+many parent become embarrassed by their child throw tantrum in public place .,tantrum
+The theme is announced in the first measures .,theme
+It was the usual ` boy gets girl ' theme .,theme
+There 's a hot kettle of soup on the stove .,kettle
+"To cook pasta , you first need to put the kettle on .",kettle
+To hedge a field or garden .,hedge
+hedge the property .,hedge
+The river was navigable for 50 miles .,river
+occasionally river overflow their bank and cause flood .,river
+Poverty is the mother of ingenuity .,ingenuity
+ingenuity be one of the characteristic of a beaver .,ingenuity
+In bridge you must follow suit .,suit
+A flush is five cards in the same suit .,suit
+We support the armed services in the name of national security .,security
+he hold several valuable security .,security
+preferment of charge .,preferment
+The preferment went to the younger candidate .,preferment
+I 'd like to share this idea with you .,share
+we share the cake .,share
+These people still follow the laws of their ancient religion .,follow
+she follow dinner with a brandy .,follow
+close a book .,close
+close a wound .,close
+Health considerations override financial concerns .,override
+"the congress promptly override the president 's veto , pass the bill into law .",override
+bump and grind .,bump
+my car bump into the tree .,bump
+A nest of thieves .,nest
+A nest of snipers .,nest
+partition a room off .,partition
+the arab peninsula be partition by the british .,partition
+A second degree burn .,degree
+Murder in the second degree .,degree
+He quickly became recognized as a member of the establishment .,establishment
+The firm celebrated twenty years since their establishment by updating their look .,establishment
+Subjects received a small electric shock when they made the wrong response .,shock
+corn be bind in small sheaf and several sheaf be set up together in shock .,shock
+The march of time .,march
+The march of science .,march
+The derivative of f : f(x ) = x^2 is f':f'(x ) = 2x .,derivative
+` electricity ' is a derivative of ` electric ' .,derivative
+Words of reproach .,reproach
+He brought reproach upon his family .,reproach
+It was as if fortune guided his hand .,fortune
+Whatever my fortune may be .,fortune
+Separation of isotopes by a cascade of processes .,cascade
+Progressing in severity as though a cascade of genetic damage was occurring .,cascade
+A micro enterprise is defined as a business having 5 or fewer employees and a low seed capital .,enterprise
+A growing enterprise must have a bold leader .,enterprise
+entertain interesting notion .,entertain
+he entertain the notion of move to south america .,entertain
+Men in exile dream of hope .,exile
+They chose exile rather than assimilation .,exile
+There is strength in union .,union
+Lightning produced an unusual union of the metals .,union
+It was a very sensitive topic .,topic
+He kept drifting off the topic .,topic
+suggestion for far   read .,read
+his main   read be detective story .,read
+You must comply or else !,comply
+he comply with my instruction .,comply
+The prosecutor offered the lieutenant immunity for all the crimes he would testify having known to be planned by the elusive drug baron .,immunity
+He was granted immunity from prosecution .,immunity
+He opened the door and was greeted by a cloud of bats .,cloud
+cloud of blossom .,cloud
+marshal the troop .,marshal
+marshal fact or argument .,marshal
+All that talk is just a smokescreen to disguise the fact that he has nothing to say .,smokescreen
+Requesting new powers of surveillance is just a smokescreen to hide their failures .,smokescreen
+She used a different color for the trim .,color
+color have be a sensitive issue in many society .,color
+Poison is released through a channel in the snake 's fangs .,channel
+gutter carry off the rainwater into a series of channel under the street .,channel
+The deathbed scene is the climax of the play .,climax
+The climax of the artist 's career .,climax
+A justice of the peace will marry Jones and Smith .,marry
+the minister marry we on saturday .,marry
+The hikers did not manage to penetrate the dense forest .,penetrate
+she be penetrate with sorrow .,penetrate
+He moved off into the darkness .,darkness
+His lectures dispelled the darkness .,darkness
+He has filial rights because he obtained letters of legitimation from the king .,legitimation
+His parents ' subsequent marriage resulted in his legitimation .,legitimation
+He wanted a better sex life .,sex
+The film contained no sex or violence .,sex
+Jewish theology .,theology
+He studied theology at Oxford .,theology
+They export most of their agricultural production .,production
+The widget making machine is being used for production now .,production
+void a plea .,void
+he void the check and return it .,void
+There is no question about the validity of the enterprise .,question
+There was a question about my training .,question
+The fault lies with you .,fault
+It was John 's fault .,fault
+Taxes are rounded off to the nearest dollar but the rounding error is surprisingly small .,rounding
+The error in the calculation was attributable to rounding .,rounding
+A devotee of classical music .,devotee
+He was a devotee of Arnold Schwarzenegger .,devotee
+cancel cheque or ticket .,cancel
+the corrective feedback mechanism cancel out the noise .,cancel
+A captain of industry .,captain
+"John Henry said to the captain , "" A man ai  not nothing but a man . "" .",captain
+The signage in the airport is designed to point the way clearly to important locations .,signage
+The poor signage at Heathrow is only in English .,signage
+"He turned around in despair , aware that he was not going to survive .",despair
+One harsh word would send her into the depths of despair .,despair
+If you 've time to spare go by air .,air
+air travel involve too much wait in airport .,air
+While driving home I took an excursion and saw some deer .,excursion
+many summer excursion to the shore .,excursion
+You could see the tumor in the CAT scan .,scan
+He made a thorough scan of the beach with his binoculars .,scan
+Originally distress was a landlord 's remedy against a tenant for unpaid rents or property damage but now the landlord is given a landlord 's lien .,distress
+The patient appeared to be in distress .,distress
+The rescue team managed to suppress the flow of oil by blasting the drilling hole .,suppress
+This drug can suppress the hemorrhage .,suppress
+The leakiness of the roof .,leakiness
+The leakiness of the boat made it dangerous to use .,leakiness
+I support France in the World Cup .,support
+she support he during the illness .,support
+meter the flow of water .,meter
+meter the mail .,meter
+This gallant laboring to avoid popularity falls into a habit of affectation . — Ben Jonson .,popularity
+His charm soon won him affection and popularity .,popularity
+An angry face .,face
+when he return to work he meet many new face .,face
+The biggest upset since David beat Goliath .,upset
+everyone get stomach upset from time to time .,upset
+Does her shopping at the mall rather than down town .,shopping
+Went shopping for a reliable plumber .,shopping
+The tires showed uneven wear .,wear
+Maternity wear .,wear
+They tend to substitute for more mundane things .,substitute
+i have no shallot so i substitute onion .,substitute
+"At this point , she seized the occasion to make her own observation .",occasion
+On the occasion of his 60th birthday .,occasion
+gutter the building .,gutter
+The cooling lava continued to gutter toward lower ground .,gutter
+The first baseman hit a homer to lead off the ninth .,homer
+Each of the pigeon fanciers released a homer at the same time .,homer
+break a record .,break
+he break the man 's 100 - meter record .,break
+The family brought suit against the landlord .,suit
+"If you take my advice , you 'll file suit against him immediately .",suit
+His pretension to the crown .,pretension
+the town still put forward pretension as a famous resort .,pretension
+He heard the scream of the brakes .,scream
+Her  scream attracted the neighbors .,scream
+She is known as quite a risk taker .,taker
+the study could not confirm the real percentage of drug taker in the country .,taker
+Standing on the corner watching all the girls go by .,corner
+The liquor store on the corner also sold lottery tickets .,corner
+The zero sign in American Sign Language is considered rude in some cultures .,zero
+"the probability be 1 in 1,000,000,000,000,000 — a number have five cipher of zero .",zero
+His unselfishness gave him great intellectual roominess .,roominess
+roominess in this size car be always a compromise .,roominess
+The parachutist did  not want to jump .,jump
+"Every year , hundreds of people jump off the Golden Gate bridge .",jump
+Can you drive this four-wheel truck ?,drive
+he drive i mad .,drive
+What does love consist in ?,consist
+the payment consist in food .,consist
+bleed the radiator .,bleed
+i bleed he .,bleed
+"Truth , in matters of religion , is simply the opinion that has survived . - Oscar Wilde .",opinion
+My opinion differs from yours .,opinion
+The ancients believed that blood was the seat of the emotions .,blood
+blood carry oxygen and nutrient to the tissue and carry away waste product .,blood
+The satisfaction of their demand for better services .,satisfaction
+The chef tasted the sauce with great satisfaction .,satisfaction
+The living room and dining room adjoin each other .,adjoin
+I adjoin a copy of your my lawyer 's letter .,adjoin
+Water is the element of fishes .,element
+To be in one 's own element .,element
+The gaudy bandwagon led the circus parade .,bandwagon
+When they saw how things were going everybody jumped on the bandwagon .,bandwagon
+She has a spaniel and a red setter .,setter
+some crossword setter work for various newspaper under different pseudonym .,setter
+"When he just looks at me , my heart begins to palpitate with excitement .",palpitate
+his heart palpitate .,palpitate
+A cry of rage .,cry
+animal cry fill the night .,cry
+roll a cigarette .,roll
+they roll their eye at his word .,roll
+Can we wade across the river to the other side ?,wade
+wade the pond .,wade
+He can hear the snap of a twig .,snap
+A cold snap in the middle of May .,snap
+haul vegetable to the market .,haul
+haul stone from the quarry in a truck .,haul
+keep boarder .,keep
+he be keep three woman in the guest cottage .,keep
+He has responsibility for the running of two companies at the same time .,running
+The running of the engine is smooth .,running
+A plot of great ingenuity .,ingenuity
+The pyramids demonstrate the ingenuity of the ancient Egyptians .,ingenuity
+Please tighten that screw a quarter-turn .,tighten
+tighten the wire .,tighten
+size give body to a fabric .,size
+The size of the building seemed to have increased since I was last there .,size
+She was a blonde bombshell .,bombshell
+News of the attack came like a bombshell .,bombshell
+"Some of her friends decided it was time to go home , but she wanted to stay on until sunrise .",stay
+To stay a flat sheet in a steam boiler .,stay
+I miss you ! Come home soon !,miss
+he miss his mother .,miss
+The press of business matters .,press
+Put the ironing in the linen press .,press
+He is preparing for the 100-yard dash .,dash
+He wooed her with the confident dash of a cavalry officer .,dash
+They killed him on the theory that dead men tell no tales .,theory
+The architect has a theory that more is less .,theory
+She satisfied his need for affection .,need
+God has no need of men to accomplish His work .,need
+trade in an old car for a new one .,trade
+the bell trade place .,trade
+Often imitations are extended to provide a more accurate rendition of the child 's intended meaning .,rendition
+They heard a live rendition of three pieces by Schubert .,rendition
+celebrate christmas .,celebrate
+To celebrate a birthday .,celebrate
+Do  not do it on my account .,account
+The paper was rejected on account of its length .,account
+His answer to any problem was to get drunk .,answer
+Their answer was to sue me .,answer
+Politicians have to respect a mass movement .,movement
+The second movement is slow and melodic .,movement
+He bought it on an impulse .,impulse
+profound religious impulse .,impulse
+We pause for station identification .,pause
+"when tell the scary story , he pause for effect .",pause
+What do his words intend ?,intend
+she be intend to become the director .,intend
+We all age through the efflux of time .,efflux
+The efflux of matter from a boil can be painful .,efflux
+She intended to devour the book .,devour
+she devour his novel .,devour
+"To underlay a cut , plate , or the like , for printing .",underlay
+underlay the plate .,underlay
+retie the string and make it strong enough now .,retie
+She stopped walking for a moment to retie her shoe .,retie
+The teacher translated Latin texts into English which he gave to his students for retroversion .,retroversion
+retroversion of the uterus .,retroversion
+drive a car or bus .,drive
+drive a car .,drive
+truncate a series .,truncate
+truncate a word .,truncate
+Children must be taught to conserve our national heritage .,conserve
+energy be conserve in this process .,conserve
+A manifestation of disease .,manifestation
+A manifestation of great emotion .,manifestation
+She is a math major .,major
+She is a linguistics major .,major
+That car is too expensive for my pocketbook .,pocketbook
+the publisher bring out small format pocketbook of the whole of their nature series ' .,pocketbook
+The Israeli web site was damaged by hostile hackers .,site
+A good site for the school .,site
+Trying to drive through a blizzard is the height of folly .,folly
+This is a war of folly .,folly
+"Render a verdict ( i.e. , deliver a judgment ) .",deliver
+deliver a captive from the prison .,deliver
+They have radiant heating .,heating
+The heating system was  not working .,heating
+The chemistry of soil .,chemistry
+Their chemistry was wrong from the beginning -- they hated each other .,chemistry
+He sat on the bank of the river and watched the currents .,bank
+That bank holds the mortgage on my home .,bank
+spin silk .,spin
+Spiders spin a fine web .,spin
+To blur a photograph by moving the camera while taking it .,blur
+the fog blur my vision .,blur
+My boss is out on another of his three martini lunches .,martini
+will you join we at six o'clock for martini ?,martini
+The consumption of energy has increased steadily .,consumption
+The fire 's consumption of the forest caused ecological changes .,consumption
+Experimental psychologists measure the elapsed time from the onset of the stimulus to its recognition by the observer .,recognition
+A politician whose recall of names was as remarkable as his recognition of faces .,recognition
+When will the new President assume office ?,assume
+he assume to himself the right to fill all position in the town .,assume
+stretch out that piece of cloth .,stretch
+stretch the limit .,stretch
+The storm 's violence .,violence
+"The violence of the storm , fortunately , was more awesome than destructive .",violence
+She has a cold in the nose .,nose
+Keep your nose out of it .,nose
+The distance to Petersborough is thirty miles .,distance
+There is a long distance between Moscow and Vladivostok .,distance
+We managed to reserve a table at Maxim 's .,reserve
+reserve i a seat on a flight .,reserve
+The radical character of our demands .,character
+A real character .,character
+She had a habit twirling the ends of her hair .,habit
+owl have nocturnal habit .,habit
+Take flight .,flight
+Birds are capable of flight .,flight
+He added more coolant to the car 's radiator .,coolant
+The atomic reactor used a gas coolant .,coolant
+beat the drum .,beat
+i get beat up by thug on my way home .,beat
+In a final bravura the ballerina appeared to be floating in water .,bravura
+The music ends with a display of bravura .,bravura
+The capable type .,type
+the word ` element ' contain five different type of character .,type
+Married above her station .,station
+The responsibilities of a man in his station .,station
+My secret will die with me !,die
+their anger die .,die
+sound the bell .,sound
+sound a certain note .,sound
+The teeth of one cogwheel engage those of another .,engage
+make sure the gear be engage .,engage
+Under the yoke of a tyrant .,yoke
+They threw off the yoke of domination .,yoke
+excavate gold .,excavate
+carnegie have a lake excavate for princeton university 's rowing team .,excavate
+They make good music -- you should give them a hearing .,hearing
+They condemned him without a hearing .,hearing
+A rugged complexion .,complexion
+diphthong be complexion of vowel .,complexion
+rein a horse .,rein
+he rein in his horse in front of the post office .,rein
+Beyond any stretch of his understanding .,stretch
+A stretch of clear water .,stretch
+The vagina receives the penis during coitus .,vagina
+The vagina is elastic enough to allow the passage of a fetus .,vagina
+unclothe your heart of envy .,unclothe
+she unclothe her innermost feeling .,unclothe
+He 's a tiger on the tennis court .,tiger
+It aroused the tiger in me .,tiger
+The population of New Jersey will not stand for this !,population
+They hired hunters to keep down the deer population .,population
+Do you smoke ?,smoke
+he be smoke his pipe .,smoke
+A spark of interest .,spark
+A spark of decency .,spark
+We received a notice to vacate the premises .,notice
+He escaped the notice of the police .,notice
+clean your fingernail before dinner .,clean
+clean up before you see your grandparent .,clean
+He deplored the population of colonies with convicted criminals .,population
+It is an estimate of the mean of the population .,population
+They were an angry lot .,lot
+A lot of money .,lot
+close the circuit .,close
+close up an umbrella .,close
+Both philosophers concord on this point .,concord
+their idea concord .,concord
+plant fish .,plant
+plant a thought in the student ' mind .,plant
+"When there is no wind , row .",wind
+He put the key in the old clock and gave it a good wind .,wind
+He is a real plus to the team .,plus
+A water molecule is made up of two hydrogen atoms plus one of oxygen .,plus
+From its creation the plan was doomed to failure .,creation
+The restructure resulted in the creation of a number of shared services .,creation
+The host is not always injured by association with a parasite .,association
+His association of his father with being beaten was too strong to break .,association
+evacuate the bottle .,evacuate
+"after the earthquake , resident be evacuate .",evacuate
+There are laws that protect the wildlife in this park .,park
+The put the car in park and got out .,park
+He was in the grip of a powerful emotion .,grip
+A good grip on French history .,grip
+They were rescued from despair at the last minute .,despair
+In the depths of despair .,despair
+We grow wheat here .,grow
+the child grow fast .,grow
+He awaited word from his man in Havana .,man
+he teach i to set up the man on the chess board .,man
+We have  not even begun to map the many galaxies that we know exist .,map
+sorrow be map on the mother 's face .,map
+I could perceive the ship coming over the horizon .,perceive
+she finally perceive the futility of her protest .,perceive
+Old people .,people
+There were at least 200 people in the audience .,people
+We congratulated him on his performance at the rehearsal .,performance
+An inspired performance of Mozart 's C minor concerto .,performance
+The definition of a telescope .,definition
+Exercise had given his muscles superior definition .,definition
+The pleasure of his company .,pleasure
+He was tingling with pleasure .,pleasure
+refer a bill to a committee .,refer
+refer to your note .,refer
+After the fire a still small voice . — 1 Kings 19:12 .,voice
+A singer takes good care of his voice .,voice
+It was a leviathan among redwoods .,leviathan
+They were assigned the leviathan of textbooks .,leviathan
+endorse cheque .,endorse
+endorse a new project .,endorse
+The watch dog gave her a feeling of security .,security
+Bankers are reluctant to lend without good security .,security
+The Virgin lived in a state of grace .,grace
+It was debated whether saving grace could be obtained outside the membership of the church .,grace
+There was a loud hiccup from the back of the room and the class erupted in laughter .,hiccup
+he have the hiccup - give he a glass of water .,hiccup
+"We packaged the deliverable , a program called FLOOD.EXE , in an installer file .",deliverable
+under this contract the deliverable include both software and hardware .,deliverable
+We ran into each other by pure chance .,chance
+There is a 30 % chance of rain tomorrow .,chance
+The squatters had to surrender the building after the police moved in .,surrender
+the last taleban fighter finally surrender .,surrender
+twin crystal .,twin
+the polished surface twin his face and chest in reverse .,twin
+I submit these plans for your approval .,submit
+the lawyer submit the material to the court .,submit
+The store carried a large selection of shoes .,selection
+i have brought a selection of fine cheeses to go with your wine .,selection
+Should I patent this invention ?,patent
+i patent my idea .,patent
+enjoy your holiday !,enjoy
+the industry enjoy a boom .,enjoy
+He was suggested not to overstate at the interview .,overstate
+i think it be overstate matter to say that an hour online be spend all night on the computer .,overstate
+"When the officers show up , the soldiers have to salute .",salute
+a terrible stench salute our nostril .,salute
+To execute a turn in ballet .,execute
+the president execute the treaty .,execute
+The phone rang at the other end .,end
+both end write at the same time .,end
+A man of principle .,principle
+he will not violate his principle .,principle
+baste a roast .,baste
+baste a hem .,baste
+The whales calve at this time of year .,calve
+The icebergs and glaciers calve .,calve
+She wore her hair in an amazing construction of whirls and ribbons .,construction
+During the construction we had to take a detour .,construction
+the bucket fill with rain .,fill
+fill the child with pride .,fill
+replay a point .,replay
+we replay the game .,replay
+"If we fence in that field , it will be a good pasture for a horse .",fence
+we fence in our yard .,fence
+The efficiency of the planning department is deplorable .,efficiency
+She did the work with great efficiency .,efficiency
+This plants radiate spines in all directions .,radiate
+Spokes radiate from the hub of the wheel .,radiate
+To back the oars .,back
+the car back up and hit the tree .,back
+To seize a ship after libeling .,seize
+the movie seize my imagination .,seize
+The test was standardized on a large sample of students .,test
+When the test was stolen the professor had to make a new set of questions .,test
+steamroller the road .,steamroller
+the senator steamroller the bill to defeat .,steamroller
+The tree would not produce fruit .,produce
+produce a new play .,produce
+"After six days , we 're finally in the last leg of our cross-country trip .",leg
+"Dan wo  not be able to come to the party , since he broke his leg last week and is now on crutches .",leg
+When will the appraiser attest the date of the painting ?,attest
+I attest this signature .,attest
+She was the center of attention .,attention
+The old car needs constant attention .,attention
+They studied forerunners of richness or poverty .,richness
+The cut of her clothes and the richness of the fabric were distinctive .,richness
+kid glove .,kid
+they be able to send their kid to college .,kid
+He and his wife shared a common purse .,purse
+He made the contribution out of his own purse .,purse
+park the child with the in - law .,park
+Can you park right here ?,park
+July is my favourite month .,month
+He paid the bill last month .,month
+Crop rotation .,rotation
+The rotation of the dancer kept time with the music .,rotation
+A large turnout for the meeting .,turnout
+The turnout for the rally .,turnout
+He needed silence in order to sleep .,silence
+"When the motor stopped , the silence was almost deafening .",silence
+As the sun moved he readjusted the shade .,shade
+they use umbrella as shade .,shade
+The subject of a passive verb is usually a patient .,patient
+the number of emergency patient have grow rapidly .,patient
+probe an anthill .,probe
+"If you probe further , you may discover different reasons .",probe
+The magnetic effect was greater when the rod was lengthwise .,effect
+The effect of the hurricane was a devastated landscape .,effect
+To add numbers .,add
+this add a light note to the program .,add
+The same laws apply to you !,apply
+he apply this racial slur to i !,apply
+"The expresses skipped my station , so I had to take a local .",local
+The local seemed to take forever to get to New York .,local
+blow a horse .,blow
+To blow a horse .,blow
+The fall broke his back .,back
+the title be print on the back of the book .,back
+There swarm bees in the garden .,swarm
+the garden be swarm with bee .,swarm
+The situation brought home to us the blunt truth of the military threat .,truth
+He was famous for the truth of his portraits .,truth
+I 'll heat up the water .,heat
+the massage heat she up .,heat
+Great progress in the arts .,progress
+Science has made extraordinary progress in the last fifty years .,progress
+That little rascal bit me !,rascal
+"if you have deer in the area , you may have to put a fence around your garden to keep the rascal out .",rascal
+The contract requires that the party of the first part pay the fee .,party
+I 'm throwing a huge party for my 21st birthday .,party
+The mysterious affinity between them .,affinity
+In anatomical structure prehistoric man shows close affinity with modern humans .,affinity
+model a head with clay .,model
+the sculptor model the clay into the form of a dolphin .,model
+suppress a yawn .,suppress
+Hot blackcurrant juice mixed with honey may suppress cough .,suppress
+give a divorce .,give
+give one 's talent to a good cause .,give
+Client complaints create a felt need for the defensibility of individual actions .,defensibility
+They built their castles with an eye to their defensibility .,defensibility
+The garage was an afterthought .,afterthought
+"This whole remodeling was an afterthought , we were only going to paint and call it good .",afterthought
+A wave of emotion swept over him .,wave
+A heat wave .,wave
+The take must be repeated .,take
+"Act seven , scene three , take two .",take
+rail off the crowd from the presidential palace .,rail
+she rail against the bad social policy .,rail
+You can not even begin to understand the problem we had to deal with during the war .,begin
+This economic measure does  not even begin to deal with the problem of inflation .,begin
+We must exploit the resources we are given wisely .,exploit
+he be exploit the student .,exploit
+She said her son thought Hillary was a bitch .,bitch
+Ann gossiped about me and mocked my work ; sometimes she can be a real bitch !,bitch
+frost the glass .,frost
+she frost her hair .,frost
+Go and collect some kindling .,kindling
+the kindling of love .,kindling
+treat the water so it can be drunk .,treat
+"treat he with caution , please .",treat
+screen the job applicant .,screen
+screen the suitcase .,screen
+About the magnitude of a small pea .,magnitude
+They tried to predict the magnitude of the explosion .,magnitude
+"hand i the spoon , please .",hand
+he hand they the letter .,hand
+The urban poor need assistance .,poor
+The poor are always with us .,poor
+He made a bad mistake .,mistake
+Make no mistake about his intentions .,mistake
+We need to conduct an overnight sleep test to diagnose your sleep problem .,sleep
+He did  not get enough sleep last night .,sleep
+I can not impose that I get what I want .,impose
+I can not impose my opinion .,impose
+The roughness of her voice was a signal to keep quiet .,roughness
+Men associate the roughness of nonstandard working-class speech with masculinity .,roughness
+The filtered extract of the mash is the feedstock for the fermenter .,feedstock
+bio - material may be substitute for petrochemical feedstock as petroleum price rise .,feedstock
+We enjoyed our round of the local bars .,round
+hospital round .,round
+Love is a bodily infirmity . . . which breaks out the deuce knows how or why ( Thackeray ) .,deuce
+The deuce with it .,deuce
+lodge a bullet in the table .,lodge
+we be lodge three foreign student this semester .,lodge
+A pillar of smoke .,pillar
+A thin pillar of smoke betrayed their campsite .,pillar
+pluck the flower off the bush .,pluck
+she pluck the phone from her bag and dial .,pluck
+Alternately relax and tense your calf muscle .,tense
+tense the rope manually before tense the spring .,tense
+I failed to get the job due to inexperience .,inexperience
+Procedural inexperience created difficulties .,inexperience
+All he had to show for four years of attendance at college was a framed piece of paper .,show
+she show her dog frequently .,show
+He believes that narcolepsy is attributable to an inability to suppress REM sleep during waking .,narcolepsy
+Excitement induced narcolepsy caused him to sleep through the most important events of his life .,narcolepsy
+cast lot .,cast
+cast a spell .,cast
+"Wow , did you see her deck that guy who pinched her ?",deck
+deck the hall with holly .,deck
+New York is the commercial heartbeat of America .,heartbeat
+Music is the heartbeat of the people .,heartbeat
+He was taught from the cradle never to cry .,cradle
+The cradle of liberty .,cradle
+The hurricane demolished houses in its path .,path
+"The path of a meteor , of a caravan , or of a storm .",path
+He represented the craft of brewers .,craft
+He learned his craft as an apprentice .,craft
+He attributed the change to their marriage .,change
+It is a refreshing change to meet a woman mechanic .,change
+He drowned his sorrows in whiskey at the bar .,bar
+the street be line with all - night bar .,bar
+Your fears have no basis in fact .,fact
+How much of the story is fact and how much fiction is hard to tell .,fact
+"Your header is too long ; "" Local Cannibals "" will suffice .",header
+This wall has four header courses .,header
+Atlanta was chosen to be host for the Olympic Games .,host
+Viruses depend on the host that they infect in order to be able to reproduce .,host
+set a broken bone .,set
+We set up the sprinkler .,set
+Can you disentangle the cord ?,disentangle
+How can I disentangle myself from her personal affairs ?,disentangle
+He is badly in debt .,debt
+I am in your debt .,debt
+I would not call her beautiful .,call
+the union call a general strike for sunday .,call
+We raise hogs here .,raise
+raise an army .,raise
+ply an axe .,ply
+ply the seven sea .,ply
+He was a great help to me when I was moving house .,help
+i have print out a list of math help .,help
+The soft underbelly of the Axis- Winston Churchill .,underbelly
+The area by the canal is the underbelly of town - not something you 'd see in the guidebooks .,underbelly
+The president has a unique personality .,personality
+She is a Hollywood personality .,personality
+The release of iodine from the thyroid gland .,release
+A new release from the London Symphony Orchestra .,release
+obstruction of justice .,obstruction
+The filibuster was a major obstruction to the success of their plan .,obstruction
+I detest snakes .,detest
+she detest politician .,detest
+The triumph of knowledge .,triumph
+The agreement was a triumph for common sense .,triumph
+"The word “ fifteen ” , the Arabic numeral “ 15 ” , and the Roman numeral “ XV ” are all numerals representing the number fifteen .",number
+"zero , one , -1 , 2.5 , and pi be all number .",number
+He owns a controlling share of the company 's stock .,stock
+They will cut round stock to 1-inch diameter .,stock
+I condition my hair after washing it .,condition
+he condition old car .,condition
+anesthetize the gum before extract the tooth .,anesthetize
+the patient must be anesthetize before the operation .,anesthetize
+"The ball was kicked by Fred . would , in active voice , be "" Fred kicked the ball . "" .",active
+` The boy threw the ball ' uses the active voice .,active
+He raised the piano lid .,lid
+his lid would stay open no long .,lid
+The boss gave me a raise .,raise
+He got a 3 % raise .,raise
+A bomb scare led them to evacuate the building .,scare
+A war scare .,scare
+He sliced his drive out of bounds .,drive
+His drive and energy exhausted his co-workers .,drive
+He paused on the bottom step .,step
+the police take step to reduce crime .,step
+The value assigned was 16 milliseconds .,value
+"i establish the color and principal value by organize the painting into three value -- dark , medium ... and light - joe hing lowe .",value
+A member in good standing .,standing
+Of equal standing .,standing
+You must confront your opponent .,confront
+john confront it with emergency measure .,confront
+I will give this act my assent .,assent
+He gave his assent eagerly .,assent
+The group needs to refocus its goals .,refocus
+refocus the image until it be very sharp .,refocus
+Its precedence as the world 's leading manufacturer of pharmaceuticals .,precedence
+"Family takes precedence over work , in an emergency .",precedence
+Where do you bank in this town ?,bank
+he bank with barclays .,bank
+A gentle squeeze on the arm .,squeeze
+Increased expenses put a squeeze on profits .,squeeze
+They saw the light of the beacon .,light
+There was a light at every corner .,light
+A prime ingredient of public speaking is projection of the voice .,projection
+Our ukuleles have been designed to have superior sound and projection .,projection
+A lover of fine wines .,lover
+A lover of his country .,lover
+They made a comparison of noise levels .,comparison
+To bring a thing into comparison with another .,comparison
+You had better pack your swollen ankle with ice .,pack
+the nurse pack gauze in the wound .,pack
+A metal screen protected the observers .,screen
+they put screen in the window for protection against insect .,screen
+press your thumb on this spot .,press
+he press down on the board .,press
+irritate the gland of a leaf .,irritate
+aspirin irritate my stomach .,irritate
+The long-term unemployed need assistance .,unemployed
+The unemployed are a growing portion of the population .,unemployed
+deflate a balloon .,deflate
+the bad review of his work deflate his self - confidence .,deflate
+mold public opinion .,mold
+the furniture mold in the old house .,mold
+"I do  not want to be bald , so just top my hair .",top
+top tree and bush .,top
+The freshness of the air revived him .,freshness
+She loved the freshness of newly baked bread .,freshness
+The dawn of civilization .,dawn
+It was the dawn of the Roman Empire .,dawn
+His mother was his abject slave .,slave
+Art thou the slave that with thy breath hast kill'd/ Mine innocent child ? Shakespeare . Much Ado About Nothing .,slave
+It was a long march .,march
+The march went up Fifth Avenue .,march
+They traditionally trim the tree on Christmas Eve .,trim
+trim lumber .,trim
+Insects may overwinter in fallen fruit if it is not removed .,overwinter
+shackleton 's man overwinter on elephant island .,overwinter
+The models show by analogy how matter is built up .,analogy
+The operation of a computer presents and interesting analogy to the working of the brain .,analogy
+wanton one 's money away .,wanton
+the young man wanton away his inheritance .,wanton
+Their escape route .,escape
+They installed a second hatch as an escape .,escape
+No section of the nation is more ardent than the South .,section
+He always turns first to the business section .,section
+They borrowed a page from the playbook of the opposition .,playbook
+The 1963 playbook leaves out the whole first scene .,playbook
+One of the planet 's moons has a slower spin than the others .,spin
+The car went into a spin .,spin
+"When the pot comes to a boil , cover it and reduce the heat to medium .",cover
+this farm cover some 200 acre .,cover
+He thought of answering with the truth but he knew they would  not believe it .,truth
+hunger and jealousy be just eternal truth of human existence .,truth
+Her red hat gave her outfit a splash of color .,splash
+Just a splash of whiskey .,splash
+"Their interests did  not match , so it took a long time to agree what to do together .",match
+"These two copies are supposed to be identical , but they do  not match .",match
+To unearth a secret .,unearth
+the cia unearth a plot to kill the president .,unearth
+Copper rods bend easily .,bend
+the road bend to the right .,bend
+The reason I robbed the bank was that I needed the money .,reason
+We are told that man is endowed with reason and capable of distinguishing good from evil .,reason
+The earth shook for several minutes .,earth
+She sighed when the plane 's wheels finally touched earth .,earth
+Her church group has planned an adoption shower .,shower
+Would male strippers be appropriate for the divorce shower ?,shower
+He came inside to warm up .,warm
+the soup warm slowly on the stove .,warm
+To render Latin into English .,render
+she render the french poem into english .,render
+"After ten years apart , the band will reunite .",reunite
+"Two of the members tried several times , but failed to reunite the band .",reunite
+The King only can decree .,decree
+the king decree that all firstborn male should be kill .,decree
+The landscape architect suggested a small planting in the northwest corner .,planting
+He ordered the planting of policemen outside every doorway .,planting
+Careful in turn three — there 's an oil slick on the road .,slick
+"The oil slick has now spread to cover the entire bay , critically endangering the sea life .",slick
+It was in the heartland of the French wine growing areas .,heartland
+The home counties are the Conservative heartland .,heartland
+If you gum the tape it is stronger .,gum
+These trees gum in the Spring .,gum
+handwriting can be slow and painful for one with arthritis .,handwriting
+She recognized his handwriting .,handwriting
+I 'll mail you the paper when it is written .,mail
+I 'll mail you the check tomorrow .,mail
+Many animals fear fire by instinct .,instinct
+altruistic instinct in social animal .,instinct
+Have recourse to the courts .,recourse
+His only recourse was the police .,recourse
+"All in all , it was an even exchange .",exchange
+deductible loss on sale or exchange of property be allowable .,exchange
+In Paris the subway system is called the ` metro ' and in London it is called the ` tube ' or the ` underground ' .,tube
+"No mate , I am taking the tube !",tube
+They tried to preserve nature as they found it .,nature
+It is his nature to help others .,nature
+The Democrats still have some cards to play before they will concede the electoral victory .,play
+he be play his card close to his chest .,play
+Blessed is he who is an alleviator of suffering .,alleviator
+Aspirin is an alleviator of headaches .,alleviator
+He escaped involvement in the accident .,involvement
+There was additional involvement of the liver and spleen .,involvement
+If you leave now you might catch him .,catch
+Did you catch that allusion ?,catch
+"The node had established communication with the network , but had as yet sent no data .",communication
+A secret passageway provided communication between the two rooms .,communication
+The patient can not walk yet .,walk
+walk with god .,walk
+He lost the hole when his approach rolled over the green .,approach
+The approach of winter .,approach
+He told the truth .,truth
+They debated the truth of the proposition .,truth
+The animal constituent of plankton .,constituent
+need continue support by constituent to be re - elect .,constituent
+The automobile reduced the demand for buggywhips .,demand
+The demand exceeded the supply .,demand
+The remains of the bonfire were left to smolder for hours .,smolder
+a smolder fire .,smolder
+place a bet .,place
+he place the glass on the table .,place
+The young violinist did  not manage her bow very well .,manage
+she manage her parent ' affair after they get too old .,manage
+iceberg be still the most popular lettuce .,iceberg
+The Titanic hit an iceberg and sank .,iceberg
+I demand to see the manager .,demand
+the boss demand that he be fire immediately .,demand
+The hydrogen and the oxygen react .,react
+she react negatively to everything i say .,react
+The lamb is the symbol of meekness or patience .,symbol
+The lion is the symbol of courage .,symbol
+identification of the gun be an important clue .,identification
+The thief 's identification was followed quickly by his arrest .,identification
+"After the ill-advised trade , the investor was stuck with worthless options for 10,000 tons of iron pig .",pig
+the conveyor carry the pig from the smelter to the freight car .,pig
+A slice of the company 's revenue .,slice
+A slice of bread .,slice
+work the body onto the flatbed truck .,work
+he be work his servant hard .,work
+pick flower .,pick
+pick mushroom .,pick
+smear the wall with paint .,smear
+she smear her lip with lipstick .,smear
+The middle-finger gesture is really a nonverbal swear .,gesture
+this web browser can be control with mouse gesture .,gesture
+The wrestler 's charge carried him past his adversary .,charge
+The battle began with a cavalry charge .,charge
+The defense argued that the plaintiff 's discovery was inadequate .,discovery
+The purpose of the voyage was discovery .,discovery
+I am proud of my contribution in advancing the project .,contribution
+He expected his contribution to be repaid with interest .,contribution
+What manner of man are you ?,manner
+Her dignified manner .,manner
+value the jewelry and art work in the estate .,value
+the dealer value the book .,value
+To accept the report of a committee .,accept
+the cow accept the bull .,accept
+The youngsters had to fend for themselves after their parents died .,fend
+The mountain climbers had to fend against the ice and snow .,fend
+The hour grows late and I must go home .,hour
+The hour is getting late .,hour
+whiff a pipe .,whiff
+the gust of air whiff away the cloud .,whiff
+The runoff of nitrates is poisoning the lake .,runoff
+"When there is very heavy rainfall on California hillsides over a prolonged period , there is almost always ensuing surface runoff .",runoff
+What is the trouble ?,trouble
+the trouble in northern ireland .,trouble
+We must hear the expert before we make a decision .,hear
+i hear a sound from outside the window .,hear
+The lecturer shot off a pistol as a demonstration of the startle response .,demonstration
+the lecture be accompany by dramatic demonstration .,demonstration
+This writer attempts more than his talents can compass .,compass
+we compass the earth .,compass
+Do you see what I mean ?,see
+see that the curtain be close .,see
+arrange my schedule .,arrange
+arrange the book on the shelf in chronological order .,arrange
+The wire must not contact the metal cover .,contact
+The surfaces contact at this point .,contact
+A quest for diamonds .,quest
+A quest for wealth .,quest
+They issued a limited edition of Bach recordings .,edition
+The boy is a younger edition of his father .,edition
+The fundus of the stomach .,fundus
+The uterine fundus .,fundus
+grind the spice in a mortar .,grind
+grind a lens .,grind
+trim the christmas tree .,trim
+trim a shop window .,trim
+You should overhaul your car engine .,overhaul
+overhaul the health care system .,overhaul
+Ask the janitor to come and change the lightbulb .,change
+"after a brisk walk , i wash up and change my shirt .",change
+populate the forest with deer and wild boar for hunting .,populate
+deer be populate the wood .,populate
+Price is a function of supply and demand .,function
+Height is a function of age .,function
+brandish a sword .,brandish
+he brandish his sword at the pirate .,brandish
+He wanted to get outdoors a little .,outdoors
+She loves the outdoors .,outdoors
+To line a copy book .,line
+Trees line the riverbank .,line
+A spent upper stage is a derelict satellite .,satellite
+The Moon is a natural satellite of the Earth .,satellite
+reform your conduct .,reform
+the church reform i .,reform
+He knocked lightly on the closed door of the study .,study
+Anthropology is the study of human beings .,study
+age have   not slow he down at all .,age
+Old age is not for sissies .,age
+His version of the fight was different from mine .,version
+An experimental version of the night fighter .,version
+pump the gas pedal .,pump
+i have pump over 1000 gallon of water in the last ten minute .,pump
+So many head of cattle .,cattle
+Do you want to raise cattle ?,cattle
+All nations fly their flags in front of the U.N.,fly
+the pilot fly to cuba .,fly
+We 're expecting another shipment of oranges tomorrow .,shipment
+shipment of hazardous waste on this route be strictly prohibit .,shipment
+Do  not shake your fist at me !,shake
+these story shake the community .,shake
+I had to bone up on my Latin verbs before the final exam .,bone
+bone the turkey before roast it .,bone
+To start a stream of water .,start
+We simply could not start the engine .,start
+pulse wave .,pulse
+a transmitter pulse by an electronic tube .,pulse
+The foundation of a new scientific society .,foundation
+There is little foundation for his objections .,foundation
+The archives provided rich material for a definitive biography .,material
+Coal is a hard black material .,material
+To foul the face or hands with mire .,foul
+She 's  foul her diaper .,foul
+I 'm going to buy my father something nice for his birthday .,buy
+she buy for the big department store .,buy
+A second coat of paint .,coat
+"When the dog shed its coat , it left hair all over the furniture and the carpet .",coat
+resume a title .,resume
+resume one 's duty .,resume
+There is no simple answer to corruption .,answer
+the answer be in the back of the book .,answer
+We prize his creativity .,prize
+I prize these old photographs .,prize
+deposit the suitcase on the bench .,deposit
+she deposit her paycheck every month .,deposit
+graduate a cylinder .,graduate
+"this school graduate 2,000 student each year .",graduate
+The butterfly wings shade to yellow .,shade
+shade your eye when you step out into the bright sunlight .,shade
+point a chimney .,point
+he point to the empty parking space .,point
+The accident was a good lesson to me .,lesson
+I hope this accident taught you a lesson !,lesson
+A beautiful figure which she used in subtle movements of unparalleled grace .,grace
+The conception of grace developed alongside the conception of sin .,grace
+negociate security .,negociate
+the party negociate all night .,negociate
+American diplomacy provided a toehold on which to proceed toward peace talks .,toehold
+His father gave him a toehold in the oil business .,toehold
+Our garden is overgrown with weeds .,garden
+"This house has a swimming pool , a tent , a swing set and a fountain in the garden .",garden
+They had no protection from the fallout .,protection
+The witnesses demanded police protection .,protection
+loosen the tension on a rope .,loosen
+loosen the soil .,loosen
+He insisted on discipline among the troops .,discipline
+The offenders deserved the harsh discipline they received .,discipline
+waste heat .,waste
+waste a joke on an unappreciative audience .,waste
+You should act like an adult .,act
+he be act strangely - i think there be something wrong with he .,act
+They have to card anybody who looks 21 or younger .,card
+i hear you do   not get card at the other liquor store .,card
+evoke sympathy .,evoke
+this remark evoke sadness .,evoke
+The city woke under a thick blanket of fog .,blanket
+There was a blanket of snow .,blanket
+The Dutch would sometimes inundate the land to hinder the Spanish army .,inundate
+the basement be inundate after the storm .,inundate
+A lump of coal .,lump
+Do you want one lump or two with your coffee ?,lump
+snag a bargain .,snag
+i snag my stocking .,snag
+He built himself a cabin in a hollow high up in the Appalachians .,hollow
+hunger have cause the hollow in their cheek .,hollow
+What makes her do this way ?,do
+do   not behave like a fool .,do
+A network of canals .,network
+Retirement meant dropping out of a whole network of people who had been part of my life .,network
+A tad too expensive .,tad
+Not a tad of difference .,tad
+avert a strike .,avert
+how can the danger be avert ?,avert
+These aspects of civilization do not find expression or receive an interpretation .,receive
+his movie receive a good review .,receive
+"The sensitiveness of James 's characters , their seeming inwardness .",inwardness
+"inwardness be what an englishman quite simply have , painlessly , as a birthright .",inwardness
+cure pickle .,cure
+the smoke and heat cure the meat .,cure
+He knew the stock was a speculation when he bought it .,speculation
+speculation about the outcome of the election .,speculation
+He ran a 4 minute mile .,minute
+you have twenty minute to complete the test .,minute
+The new soldier did not clean his cabin and was scolded for dereliction and disobedience .,dereliction
+What he did was a terrible dereliction of duty .,dereliction
+The report included his interpretation of the forensic evidence .,interpretation
+the edict be subject to many interpretation .,interpretation
+administer the last unction .,administer
+administer an exam .,administer
+We 're at a crucial juncture in our relationship .,juncture
+At that juncture he had no idea what to do .,juncture
+"The old hermit , up in the mountains , took a vow of silence .",vow
+they take vow of poverty .,vow
+Add the noodles when the water comes to the boil .,boil
+They brought the water to a boil .,boil
+The seismograph showed a sharp spike in response to the temblor .,spike
+the second baseman sharpen his spike before every game .,spike
+puff a cigar .,puff
+he huff and puff as he make his way up the mountain .,puff
+I demand an explanation .,demand
+I demand an immediate explanation .,demand
+meet a need .,meet
+my proposal meet with much opposition .,meet
+His operas synthesize music and drama in perfect harmony .,synthesize
+the liver synthesize vitamin .,synthesize
+It is their flagship newspaper .,flagship
+The retail company 's store in London is their flagship .,flagship
+A second stringer .,stringer
+A first stringer .,stringer
+I could  not tell what the thing was .,thing
+thing be go well .,thing
+The bonds were transmitted by carrier .,carrier
+refrigerate carrier have revolutionize the grocery business .,carrier
+foul the water .,foul
+Jones  foul for strike one .,foul
+I 'll ping my accountant -- April 15 is nearing .,ping
+my car be ping until my last oil change .,ping
+receive letter from the front .,receive
+the lady be receive sunday morning .,receive
+rule one 's temper .,rule
+rule the margin .,rule
+The students contrast considerably in their artistic abilities .,contrast
+the middle school teacher contrast her good student 's work with that of her weak student .,contrast
+Tier upon tier of huge casks .,tier
+A three tier wedding cake .,tier
+Her face was as hard as stone .,stone
+stone be abundant in new england and there be many quarry .,stone
+The temperature outside is ten degrees below zero .,zero
+The electromagnetic field does not drop all of the way to zero before a reversal .,zero
+The defendants asked for a consolidation of the actions against them .,consolidation
+A consolidation of two corporations .,consolidation
+commit a random act of kindness .,commit
+she commit herself to the work of god .,commit
+Please erase the formula on the blackboard -- it is wrong !,erase
+her painful memory seemingly erase completely .,erase
+He brought his portable sawmill and turned the old beams into interesting flooring .,sawmill
+The sawmill sells lumber to carpenters and sawdust to gardeners .,sawmill
+An embarrassment of riches .,embarrassment
+The outcome of the vote was an embarrassment for the liberals .,embarrassment
+view a problem .,view
+he view the painting and praise the artist for his masterpiece .,view
+His sincerity inspired belief .,sincerity
+They demanded some proof of my sincerity .,sincerity
+He combed his hair .,hair
+"In the western world , women usually have long hair while men usually have short hair .",hair
+She found an old issue of the magazine in her dentist 's waiting room .,issue
+politician never discuss the real issue .,issue
+square the wood with a file .,square
+he square his shoulder .,square
+Population tends to concentrate in cities .,concentrate
+These groups concentrate in the inner cities .,concentrate
+leap into fame .,leap
+The child  leap across the puddle .,leap
+He enjoyed his relief from responsibility .,relief
+The contributions provided some relief for the victims .,relief
+balance the two weight .,balance
+She has to balance work and her domestic duties .,balance
+oxygenate blood .,oxygenate
+"after we oxygenate the river , the fish return .",oxygenate
+The sky seemed to flame in the Hawaiian sunset .,flame
+the person who post an inflammatory message get flame .,flame
+They were hoping for good weather .,weather
+Wooden garden furniture must be well oiled as it is continuously exposed to weather .,weather
+Files with the .txt extension usually contain text .,extension
+most application provide extension for the file they create .,extension
+To balance a set of books .,balance
+"this final payment , or credit , balance the account .",balance
+He played the first cut on the cd .,cut
+He insisted that we give him the last cut before every deal .,cut
+The class was thrown into disorder when the teacher left the room .,disorder
+The army tried to prevent disorder when claims the elections had been rigged grew stronger .,disorder
+The sole object of her trip was to see her children .,object
+"it be full of racket , ball and other object .",object
+The first violin part in this concerto is very challenging .,part
+He tried to sing the tenor part .,part
+An appeal to raise money for starving children .,appeal
+Their appeal was denied in the superior court .,appeal
+I have to revise the first draft of my term paper .,draft
+They served beer on draft .,draft
+The police used a plant to trick the thieves .,plant
+He claimed that the evidence against him was a plant .,plant
+Competition was pushing them to the wall .,wall
+His back was to the wall .,wall
+"The first major milestone in space exploration was in 1957 , when the USSR 's Sputnik 1 orbited the Earth .",space
+He said the space is the most important character in the alphabet .,space
+Look at the ice on that dame !,ice
+Americans like ice in their drinks .,ice
+The man let out an outburst of invective .,outburst
+An outburst of heavy rain .,outburst
+"fix breakfast for the guest , please .",fix
+fix the variable .,fix
+He ate a whole pizza !,pizza
+Should we cook a frozen pizza for dinner ?,pizza
+To bask in someone 's favour .,bask
+the seal be bask in the sun .,bask
+run amok .,run
+run riot .,run
+The cream of England 's young men were killed in the Great War .,cream
+The cream of a collection of books or pictures .,cream
+A satellite TV channel .,channel
+they offer more than one hundred channel .,channel
+The investigation tending to negate any supernatural influences .,negate
+a pessimism that always negate .,negate
+The Incas believed that Cuzco was the navel of the universe .,navel
+"Within the navel of this hideous wood , / Immured in cypress shades , a sorcerer dwells . — Milton .",navel
+It was his unshakeable resolution to finish the work .,resolution
+he always write down his new year 's resolution .,resolution
+guard my possession while i ' m away .,guard
+there would be man guard the horse .,guard
+I have a monthly subscription to The Daily Telegraph newspaper .,subscription
+My library subscription is about to expire .,subscription
+This herbal infusion does  not stimulate .,stimulate
+Coffee and tea stimulate me .,stimulate
+A catcher needs a lot of protective equipment .,catcher
+A catcher plays behind the plate .,catcher
+Air piracy .,piracy
+How shoud the international community respond to Somali piracy ?,piracy
+This food ′s gone off - you′d better chuck it .,chuck
+chuck these old note .,chuck
+A sewer of fine gowns .,sewer
+All that work went down the sewer .,sewer
+He carried a snapshot of his daughter .,snapshot
+my snapshot have   not be develop yet .,snapshot
+What does this painting say ?,say
+Did his face say anything about how he felt ?,say
+The artist must first learn to see .,see
+see whether it work .,see
+Shut your face !,face
+He 's always stuffing his face with chips .,face
+To tune a piano or a violin .,tune
+my piano need to be tune .,tune
+Do you appreciate the full meaning of this letter ?,appreciate
+To test the power of bees to appreciate color .,appreciate
+Can he reach ?,reach
+the water reach the doorstep .,reach
+He can do it from memory .,memory
+memory be a facility common to all animal .,memory
+One boy hit the other .,hit
+He hit her hard in the face .,hit
+"She 's in no state to go home by herself , so make sure she does  not drink anything else , and she 'll soon sober up .",sober
+keep he in bed until he sober up .,sober
+It is an obvious truncation of the verse .,truncation
+They were sentenced to a truncation of their limbs .,truncation
+analyze a sonnet by shakespeare .,analyze
+the inspector analyze the building .,analyze
+17 leaves a remainder of 2 when divided by 3 .,remainder
+11 divided by 2 is 5 remainder 1 .,remainder
+Students experiment sexually .,experiment
+the composer experiment with a new style .,experiment
+wrench a window off its hinge .,wrench
+wrench one 's ankle .,wrench
+He noted her extreme tenderness when he touched the bruise on her thigh .,tenderness
+The best results are generally obtained by inserting the needle into the point of maximum tenderness .,tenderness
+She swore on her honour .,honour
+His honour is at stake .,honour
+And big waves lash the frighted shores . — John Dryden .,lash
+the whale lash the sea with its tail .,lash
+Jupiter was the origin of the radiation .,origin
+he come from good origin .,origin
+A good way of exercising is to constitutionalize .,constitutionalize
+a woman 's right to an abortion be constitutionalize in the 1970 's .,constitutionalize
+run a subject .,run
+run a process .,run
+Who will start ?,start
+I start at eight in the morning .,start
+I warrant this information .,warrant
+the dealer warrant all the car he sell .,warrant
+I plan to go travelling while I still enjoy good health .,enjoy
+enjoy privilege .,enjoy
+dig a hole .,dig
+my seven - year - old son always dig a hole in the middle of his mashed potato and fill it with gravy before he start to eat they .,dig
+Listen to the pop of a champagne cork .,pop
+"pop music , despite its commercial focus , include many artistic gem .",pop
+He put some spin on the cue ball .,spin
+He gave the crank a spin .,spin
+A steel or magnesium ribbon .,ribbon
+sail tear to ribbon .,ribbon
+Indicate that you are willing to receive marketing material by putting a tick in the box .,tick
+he count the tick of the clock .,tick
+A railroad network .,network
+"To get a job in today 's economy , it is important to have a strong network .",network
+The passing of winter .,passing
+The coach sent in a passing play on third and long .,passing
+A preliminary draft .,draft
+The final draft of the constitution .,draft
+Keystone stater .,stater
+farm stater .,stater
+They turned to individualism as their salvation .,salvation
+Tourism was their economic salvation .,salvation
+We ca  not generate enough power for the entire city .,generate
+The hydroelectric plant needs to generate more electricity .,generate
+He gave only a crumb of information about his plans .,crumb
+there be few crumb of comfort in the report .,crumb
+It was off to a good start .,start
+They got an early start .,start
+In England they call takeout food ` takeaway ' .,takeaway
+"If you 're hungry , there 's a takeaway just around the corner .",takeaway
+wind your watch .,wind
+the river wind through the hill .,wind
+The visiting team started to attack .,attack
+the cancer cell be attack his liver .,attack
+We should discourage this practice among our youth .,discourage
+do   not be discourage by the amount of work leave to do : you will finish it in good time .,discourage
+He died without issue .,issue
+The last issue of penicillin was over a month ago .,issue
+He recited the whole poem without a single trip .,trip
+An acid trip .,trip
+The boys in blue marched to the pipers .,blue
+She was wearing blue .,blue
+He was the hero according to his own relation .,relation
+he have distant relation back in new jersey .,relation
+work stone into tool .,work
+work the metal .,work
+check the spelling of this word .,check
+check your fact .,check
+We will channel the traffic to the left with these cones .,channel
+channel information towards a broad audience .,channel
+He faced punishment for creating the fenced enclosure in a public park .,enclosure
+The winning horse was first into the unsaddling enclosure .,enclosure
+He was cut down on a close play at third .,third
+The play ended with Jones standing on third .,third
+Her wishes had a great influence on his thinking .,influence
+The influence of mechanical action .,influence
+I just dropped by to say “ hi ” .,hi
+"hi , how be you ?",hi
+A date which will live in infamy - Franklin D. Roosevelt in response to the Japanese attack on Pearl Harbour .,infamy
+"Infamy , infamy - they 've all got it in for me ! - Kenneth Williams as Julius Caesar in Carry On Cleo .",infamy
+He used a handcart to carry the rocks away .,handcart
+"vendor be sell sunglass , bag snack , and sundry other item from handcart in the square .",handcart
+You 've got to fire that fuckup .,fuckup
+Forgetting our anniversary was a major fuckup .,fuckup
+You need to learn to be more tolerant of difference .,difference
+there be many difference between jazz and rock .,difference
+What 's the problem ?,problem
+she and her husband be have problem .,problem
+A schoolgirl fantasy .,fantasy
+she make a lot of money write romantic fantasy .,fantasy
+He was about to mingle in an unpleasant affair .,mingle
+resourcefully he mingle music and dance .,mingle
+Sometimes it takes a bit of luck to get success .,luck
+The raffle is just a matter of luck .,luck
+Thunderbolts can stampede animals .,stampede
+the tavern owner stampede we into overeating .,stampede
+The value of a crotchet is twice that of a quaver .,value
+he have old - fashioned value .,value
+The American shopkeeper differs from his European congener .,congener
+"Lard was also used , though its congener , butter , was more frequently employed .",congener
+sculpt a swan out of a block of ice .,sculpt
+she be sculpt the block of marble into an image of her husband .,sculpt
+To curve a line .,curve
+the road curve sharply .,curve
+All you ever do is surf the Internet .,do
+she do a little dance .,do
+A crook in the path .,crook
+She held the baby in the crook of her arm .,crook
+He had a laughing fit which lasted more than ten minutes .,fit
+He threw a fit when his car broke down .,fit
+The sailors decided to tack the boat .,tack
+the boat tack .,tack
+The earthquake was a disaster .,disaster
+His policies were a disaster .,disaster
+The reporter fiddle with the facts .,fiddle
+zuckerman fiddle that song very nicely .,fiddle
+"She can bear witness , since she was there at the time .",witness
+"As a witness to the event , I can tell you that he really said that .",witness
+"Over time , the spontaneous movement had become an organization .",organization
+His compulsive organization was not an endearing quality .,organization
+steam and clean the upholstered sofa .,steam
+it really steam i to see she treat he like that .,steam
+What was the date of submission of your proposal ?,submission
+several of his submission be reject by publisher .,submission
+The lead was in the dummy .,lead
+The children were playing with lead soldiers .,lead
+What do you mean you did  not come home last night ? Would you care to elaborate ?,elaborate
+she elaborate on the main idea in her dissertation .,elaborate
+"He attempted the examination , but did not expect to pass .",pass
+the sport car pass all the truck .,pass
+Potatoes bake to a crisp in the oven .,bake
+bake a cake .,bake
+foot the bill .,foot
+To foot ( or foot up ) an account .,foot
+He questioned the sufficiency of human intelligence .,sufficiency
+Her father questioned the young suitor 's sufficiency .,sufficiency
+The reorganization was prescribed by federal bankruptcy laws .,reorganization
+After the takeover there was a thorough reorganization .,reorganization
+ship the cargo in the hold of the vessel .,ship
+To ship the tiller or rudder .,ship
+A clergyman improved the tone of the meeting .,tone
+they test his hearing with pure tone of different frequency .,tone
+Every right implies a responsibility .,responsibility
+Why did  not you clean the house ? That was your responsibility !,responsibility
+He had a long career in the law .,career
+The general had had a distinguished career .,career
+They proposed an increase of 15 percent in the fare .,increase
+The increase in unemployment .,increase
+The law came looking for him .,law
+the law of thermodynamic .,law
+Where do we go from here ?,here
+An Alzheimer patient 's in here may in his mind be anywhere he called home in the time he presently re-lives .,here
+The smell of fried onions makes my mouth water .,water
+his eye be water .,water
+Too much desire can seriously affect one 's judgment .,desire
+a man of many desire .,desire
+The capacity of a hard disk drive is usually expressed in megabytes .,capacity
+The plant is working at 80 per cent capacity .,capacity
+He wrote the manual on car care .,care
+care have age he .,care
+stretch my patience .,stretch
+"During the Inquisition , the torturers would stretch their victims on a rack .",stretch
+Pleistocene vegetation .,vegetation
+Their holiday was spent in sleep and vegetation .,vegetation
+He wanted to try his hand at singing .,hand
+Give the little lady a great big hand .,hand
+Do  not delay your application to graduate school or else it wo  not be considered .,delay
+he delay the watering .,delay
+crystallize mineral .,crystallize
+i crystallize the copper sulphate by slowly cool a saturated solution .,crystallize
+"In the wintertime , heavy truck tires dig into the road , forming potholes .",dig
+they dig an eight - foot ditch along the side of the road .,dig
+We are in a transitional stage in which many former ideas must be revised or rejected .,stage
+It set the stage for peaceful negotiations .,stage
+The bridesmaid carried a spray of lily-of-the-valley .,spray
+A spray of bullets .,spray
+effect a change .,effect
+The best way to effect change is to work with existing stakeholders .,effect
+seat a concert hall .,seat
+this classroom seat two hundred student .,seat
+"Six years of a happy relationship , and then she had the nerve to cheat on me with a barman !",cheat
+my husband cheat on i with his secretary .,cheat
+To extract an essential oil from a plant .,extract
+i extract a promise from the dean for two new position .,extract
+To sew money into a bag .,sew
+Can the seamstress sew me a suit by next week ?,sew
+liquidate a company .,liquidate
+the mafia liquidate the informer .,liquidate
+Let 's all relax after a hard day 's work .,relax
+he relax in the hot tub .,relax
+begin a new chapter in your life .,begin
+she begin russian at an early age .,begin
+corner the gold market .,corner
+the car corner .,corner
+He fell asleep to the music of the wind chimes .,music
+You have to face the music .,music
+A person 's appropriation of property belonging to another is dishonest .,appropriation
+The necessary funds were obtained by the government 's appropriation of the company 's operating unit .,appropriation
+Garbage pickup is on Mondays and Thursdays .,pickup
+She needed the pickup that coffee always gave her .,pickup
+declare dividend .,declare
+his wife declare at once for move to the west coast .,declare
+name your accomplice !,name
+he name his demand .,name
+The horse had a blaze between its eyes .,blaze
+they chip off bark to mark the trail with blaze .,blaze
+It is hard to get this pitch off of my hand .,pitch
+he be employ to see that his paper 's news pitch be not trespass upon by rival vendor .,pitch
+mash the garlic .,mash
+To mash on a bicycle pedal .,mash
+Give him a clip round the ear !,clip
+He gave me a clip on the ear .,clip
+The blaze spread rapidly .,blaze
+go to blaze .,blaze
+I warn you against false assumptions .,warn
+i warn he not to go too far .,warn
+He was in such a state you just could  not reason with him .,state
+"though legally single nation , many state comprise several distinct cultural or ethnic group .",state
+A lobster mold .,mold
+A gelatin dessert made in a mold .,mold
+Please drain the sink . it is full of dirty water .,drain
+we drain the oil tank .,drain
+yesterday 's solution be not good enough .,yesterday
+yesterday 's technology .,yesterday
+My husband does  not cook .,cook
+the apothecary cook the medicinal mixture in a big iron kettle .,cook
+Let us toast the birthday girl !,toast
+toast bread .,toast
+He turned the paper over so the writing would  not show .,writing
+The doctor 's writing was illegible .,writing
+On the lecture circuit .,circuit
+The international tennis circuit .,circuit
+The Masterworks concert series .,series
+A comedy series .,series
+These young men deify financial success .,deify
+the people deify their king .,deify
+The victory was a signal for wild celebration .,signal
+He awaited the signal to start .,signal
+This factory floor is a showcase for automation and robotic equipment .,automation
+automation replace human worker by machine .,automation
+the gun have only be fire two time .,fire
+the boss fire his secretary today .,fire
+The winning goal came with less than a minute left to play .,goal
+She failed in her goal to become captain of the team .,goal
+Did this event register in your parents ' minds ?,register
+Did you register any change when I pressed the button ?,register
+scrap the old airplane and sell the part .,scrap
+these two fellow be always scrap over something .,scrap
+Academic protocol .,protocol
+safety protocol .,protocol
+The methods can master the problems .,master
+her pain completely master she .,master
+"If you do  not scram , I 'll leave instead !",scram
+scram !,scram
+Women in Afghanistan veil their faces .,veil
+"the forest fire be veil by smoke , but i could hear it clearly .",veil
+Our pitcher has a sore arm .,pitcher
+He has played every position except pitcher .,pitcher
+whang away at the school reform plan .,whang
+whang the ball .,whang
+Husbands usually predecease their wives .,predecease
+she predecease her husband .,predecease
+bare your breast .,bare
+bare your feeling .,bare
+His car has a lot of pickup .,pickup
+Put out a pickup on that man .,pickup
+It was a great sales gimmick .,gimmick
+A cheap promotions gimmick for greedy businessmen .,gimmick
+The restoration of this painting will take years .,restoration
+The restoration of this medieval church involved undoing all the Victorian modifications .,restoration
+We made a batch of cookies to take to the party .,batch
+A batch of letters .,batch
+In focus .,focus
+The focus of infection .,focus
+The old man hates to socialize .,socialize
+he never socialize with his colleague .,socialize
+Syngman Rhee kept imprisoned the Dowager Queen Yun Empress Sunjeong of the Korean Empire for fear of the respect the people held for her .,respect
+"He is an intellectual giant , and I have great respect for him .",respect
+rekindle her love .,rekindle
+rekindle hope .,rekindle
+Can you clean the windows today ?,clean
+clean the stove !,clean
+They built a car that runs on electricity .,electricity
+The stage crackled with electricity whenever she was on it .,electricity
+This trip will season even the hardiest traveller .,season
+season the chicken breast after roast it .,season
+There 's a new brand of hero in the movies now .,brand
+"Whenever Sally drinks her favorite beer , Coors ' brand image floods her senses with scenes of being on a hot beach drinking something refreshing .",brand
+A plague of grasshoppers .,plague
+Those children are a damn plague .,plague
+draw water from a well .,draw
+she draw water from the barrel .,draw
+They sat on the hearth and warmed themselves before the fire .,hearth
+The hearth was black with the charcoal of many fires .,hearth
+She is wearing a lot of makeup .,makeup
+The two teams played a makeup one week later .,makeup
+The prison guard unlocked the door of the cell .,guard
+We let our guard down .,guard
+I 'll give you a ring when the plane lands .,ring
+she have ring on every finger .,ring
+A home for outcasts .,home
+A home for the elderly .,home
+The child drew glass beads on a string .,string
+String pearls on a string .,string
+This job calls for the investment of some hard thinking .,investment
+He made an emotional investment in the work .,investment
+What 's all this racket ?,racket
+"Power tools work quickly , but they sure make a racket .",racket
+A soft susurrus of conversation .,susurrus
+The soft susurrus and sighs of the branches . — Longfellow .,susurrus
+process hair .,process
+process cheese .,process
+His voice had an edge to it .,edge
+he round the edge of the box .,edge
+The glory of the sunrise .,glory
+He valued glory above life itself .,glory
+They proposed a new direction for the firm .,direction
+He looked the other direction .,direction
+truss the roof .,truss
+truss bridge .,truss
+refer a patient to a specialist .,refer
+this plant can be refer to a know specie .,refer
+Karma 's a bitch .,bitch
+This problem is a real bitch .,bitch
+loss of livestock leave the rancher bankrupt .,loss
+The car was a total loss .,loss
+The two proposals conflict !,conflict
+this behavior conflict with our rule .,conflict
+wax the car .,wax
+the moon be wax .,wax
+In good kilter .,kilter
+Out of kilter .,kilter
+pop the clutch .,pop
+this popcorn pop quickly in the microwave oven .,pop
+stimulate my appetite .,stimulate
+the book stimulate her imagination .,stimulate
+corrupt the moral .,corrupt
+socrates be accuse of corrupt young man .,corrupt
+Working mothers rely on the day care program .,program
+You ca  not tell the players without a program .,program
+vamp up an excuse for not attend the meeting .,vamp
+vamp up an old speech .,vamp
+Nothing good will come of this .,come
+this kind of accident come when you be careless .,come
+crush an aluminum can .,crush
+"ye shall not offer unto the lord that which be bruise , crush , break or cut . --lev . xxii .",crush
+An agony of doubt .,agony
+Being in an agony he prayed more earnestly . —Luke xxii . 44 .,agony
+The full extent of the law .,extent
+The extent of his knowledge of the language is a few scattered words .,extent
+room for improvement .,room
+the room be very small but they have a nice view .,room
+The expression of milk from her breast .,expression
+A sad expression .,expression
+I checked the prices on the ticker one last time before placing the trade .,ticker
+"To my surprise , the ticker showed that the deal had already gone through .",ticker
+half an hour .,half
+You do  not know the half of it .,half
+He showed no consideration for her feelings .,consideration
+"After much consideration , I have decided to stay .",consideration
+I 'll walk you to your car .,walk
+I walk the dog every morning .,walk
+She 's at the height of her career .,height
+At the height of her career .,height
+obstruct the path .,obstruct
+The trees obstruct my view of the mountains .,obstruct
+She has a sunny disposition .,disposition
+He has such a foul disposition .,disposition
+What suit is trumps ?,suit
+"to deal and shuffle , to divide and sort her mingle suit and sequence . — .",suit
+He enjoyed the laughter of the crowd .,laughter
+Their loud laughter betrayed their presence .,laughter
+He feared the speedy decline of all manhood .,manhood
+A strapping youth poised on the brink of manhood .,manhood
+In most industrialized countries the fertility rate has dropped well below replacement rate .,fertility
+In America the fertility rate of recent immigrants tends to be higher than that of native population .,fertility
+stun fish .,stun
+the news stun she .,stun
+I regarded his campaign for mayor as a joke .,joke
+He told a very funny joke .,joke
+It was a black-tie function .,function
+a seemingly endless round of social function .,function
+stem the tide .,stem
+To stem a tide .,stem
+The agency of providence .,agency
+agency for toxic substances and disease registry .,agency
+He felt as if he had been hit with a club .,club
+He carried a club in self defense .,club
+half a loaf .,half
+A century and one half .,half
+The first batter hit the ball into the corner for a double .,batter
+"To the dismay of his mother , the boy put his finger into the cake batter .",batter
+A revival of a neglected play by Moliere .,revival
+The revival of trade .,revival
+He looked at her for ten full minutes before recognition dawned .,recognition
+He was unable to make his motion because he could  not get recognition by the chairman .,recognition
+I heard a splash when the rock landed in the pond .,splash
+The painter put a splash of blue on the wall to make it more colorful .,splash
+We prefer sleeping outside .,prefer
+Some people prefer camping to staying in hotels .,prefer
+At the expense of .,expense
+he keep a careful record of his expense at the meeting .,expense
+"In the first year of school , pupils are taught to recite the alphabet .",alphabet
+The Greek alphabet has only twenty-four letters .,alphabet
+A nice guy .,guy
+The guy 's only doing it for some doll .,guy
+Children learn early on to categorize .,categorize
+"First , categorize incoming messages according to the needed actions .",categorize
+It is but a step .,step
+it is only a step to the drugstore .,step
+"You made a promise , son , and now you must fulfil it .",fulfil
+my lady be positively fulfil of grace .,fulfil
+"So as to prevent cheating , he was asked to reshuffle the cards .",reshuffle
+the new prime minister reshuffle his cabinet .,reshuffle
+he vent her frustration when he get home .,vent
+she vent her anger .,vent
+His girlfriend kicked him out .,girlfriend
+Marc went to the park with his girlfriend and watched the sunset with her .,girlfriend
+I love the aroma of cinnamon .,aroma
+"The toilet was emitting a pungent , foul aroma .",aroma
+Artillery must take account of a weapon 's precise inclination .,inclination
+He walked with a heavy inclination to the right .,inclination
+"This painting shows little organization at first glance , but little by little the structure becomes clear .",organization
+His organization of the work force was very efficient .,organization
+The track record shows that he will be a good president .,record
+The lawyer has a good record .,record
+Some people have better immunity to diseases than others .,immunity
+immunity to criticism .,immunity
+Hot water will shrink the sweater .,shrink
+Can you shrink this image ?,shrink
+The Chinese are said to harvest organs from executed criminals .,harvest
+harvest the grape .,harvest
+It was several days after the storm before they could repair the washout and open the road .,washout
+"As an actor , he was a complete washout , so he went back to accounting .",washout
+The land had never been plowed .,land
+Good or bad land for growing potatoes .,land
+Every dog has his day .,day
+He deserves his day in court .,day
+"In Islam , salvation is achieved by praying in the mosque to Allah and following the sunnah of Muhammad .",salvation
+The salvation of his party was the president 's major concern .,salvation
+The service happened yesterday .,service
+He accepted service of the subpoena .,service
+throw accusation at someone .,throw
+she throw the blanket around the child .,throw
+clap two board together .,clap
+the wing of the bird clap loudly .,clap
+Global warming denier ( see : Wikipedia : Global warming denial ) .,denier
+Holocaust denier ( see : Wikipedia : Holocaust denial ) .,denier
+To carry the war from Greece into Asia .,carry
+this crime carry a penalty of five year in prison .,carry
+Demands for some form of separatism on grounds of religion have been perceived as a threat to mainstream education .,separatism
+separatism be a serious problem in quebec .,separatism
+Weigh the good against the bad .,good
+among the high good of all be happiness and self - realization .,good
+He is out on bail .,bail
+"The judge set bail at $ 10,000 .",bail
+A ten-day coach circuit of the island .,circuit
+We took a quick circuit of the park .,circuit
+Ellen used a spreader to butter her bagel .,spreader
+He used his knife as a spreader .,spreader
+It takes time to learn the setup around here .,setup
+The classroom setup was simple and efficient .,setup
+This is a product of lime and nitric acid .,product
+A product of lime and nitric acid .,product
+You 'll get your coat all muddy if you trail it around like that .,trail
+the bride be veil trail along the ground .,trail
+He had a funny walk .,walk
+the pitcher now have two walk in this inning alone .,walk
+Do a drop for the telephone gang through the ceiling of the wiring closet .,gang
+A gang of wires .,gang
+He was a claimant to the throne .,claimant
+claimant of unemployment compensation .,claimant
+They explored every avenue they could think of .,avenue
+it promise to open new avenue to understanding .,avenue
+These apples need to mellow a bit more .,mellow
+the sun mellow the fruit .,mellow
+He played only draw and stud .,draw
+John only had four cards of the same suit ; he had a  draw hand .,draw
+Measures for the control of disease .,control
+they institute control over drink on campus .,control
+An emery wheel is the modern variation of a grindstone .,variation
+Any variation in his routine was immediately reported .,variation
+The amount he had in cash was insufficient .,amount
+the dog need different amount of food .,amount
+We can not man all the desks .,man
+student be man the booth .,man
+He refused to live in the governor 's residence .,residence
+a person can have several residence .,residence
+We compel all students to fill out this form .,compel
+"logic compel the wise , while fool feel compel by emotion .",compel
+The eclat of a great achievement .,eclat
+They gave him more eclat than he really deserved .,eclat
+A slave to fashion .,slave
+A slave to cocaine .,slave
+Please try not to overreact if she drives badly when she is first learning .,overreact
+Do  not overreact to the bad news -- take it easy .,overreact
+"She tried to think of some killer of an argument , a real zinger that would disarm all opposition .",zinger
+He always greeted me with a new zinger .,zinger
+To tread land when too light .,tread
+For fools rush in where angels fear to tread .,tread
+To lay a body in the grave .,lay
+lay the book on the table .,lay
+Refrigeration delayed the softening of the fruit .,softening
+He observed the softening of iron by heat .,softening
+You can lead a horse to water but you ca  not make him drink .,drink
+cynthia drink the wine .,drink
+The program was withdrawn because of the squeamishness of some viewers .,squeamishness
+He refused to allow squeamishness to deter him from his duty .,squeamishness
+You may need that at a later date .,date
+They hoped to get together at an early date .,date
+The main forms of oat are meal and bran .,oat
+The oat stalks made good straw .,oat
+They shared a community of possessions .,community
+A community is infinitely more brutalised by the habitual employment of punishment than it is by the occasional occurrence of crime ( Oscar Wilde ) .,community
+A change soon put a period to my tranquility .,period
+Death put a period to his endeavors .,period
+unlock the door .,unlock
+i unlock the door and walk in .,unlock
+This piece wo  not fit into the puzzle .,fit
+"I wanted to borrow my little sister 's jeans , but they did  not fit .",fit
+The room had only a bed and chair .,bed
+He sat on the edge of the bed .,bed
+have a postdoc .,have
+"she have $ 1,000 in the bank .",have
+I 'll have to resolve the equation with the new values .,resolve
+can this image be resolve ?,resolve
+he buy some   read material at the airport .,read
+the teacher assign new reading .,reading
+In spite of his troubles he never gave up hope .,hope
+He was their best hope for a victory .,hope
+Do  not digress when you give a lecture .,digress
+she always digress when tell a story .,digress
+Someone in the audience began to cough .,audience
+We joined the audience just as the lights went down .,audience
+Do you care to try this dish ?,care
+the nurse be care for the wound .,care
+head the fish .,head
+the salmon be first head and then scale .,head
+tease tissue for microscopic examination .,tease
+she have a way of tease man with her flirtatious behavior .,tease
+file one 's fingernail .,file
+"file these bill , please .",file
+smoking stink .,smoking
+smoking be permit .,smoking
+Her entrance attracted no attention whatsoever .,entrance
+She made a grand entrance .,entrance
+He is serving for the game .,game
+The game lasted two hours .,game
+The more remote the body the less the gravity .,gravity
+"gravity be weak than electromagnetism , but affect all matter and energy .",gravity
+He got a scoop on the bribery of city officials .,scoop
+He used a scoop to serve the ice cream .,scoop
+The determination of molecular structures .,determination
+His determination showed in his every movement .,determination
+You can stay with me while you are in town .,stay
+stay a bit long -- the day be still young .,stay
+The money will sustain our good cause .,sustain
+she alone sustain her family .,sustain
+It defines a major contour of this administration .,contour
+the contour of the melody .,contour
+My youngest child is forty-three .,child
+they have three child .,child
+elaborate a plan .,elaborate
+Could you elaborate on the plot for your novel for me ?,elaborate
+cradle gold .,cradle
+he cradle the infant in his arm .,cradle
+Companies sometimes pay millions for product endorsement by celebrities .,endorsement
+a star athlete can make a lot of money from endorsement .,endorsement
+A prominent vascularity .,vascularity
+Reduced bodyfat brought out the vascularity in his arms .,vascularity
+He was dressed in grey .,grey
+The Confederate army was a vast grey .,grey
+He has a lot of interest in vintage cars .,interest
+How much interest do you pay on your mortgage ?,interest
+inhale the fresh mountain air .,inhale
+inhale deeply .,inhale
+The eagle is a symbol of the United States .,symbol
+chinese people use word symbol for write .,symbol
+They have a southpaw on the mound .,mound
+they build small mound to hide behind .,mound
+The still-life has been a popular genre in painting since the 17th century .,genre
+The computer game Half-Life redefined the first-person shooter genre .,genre
+train of mourner .,train
+express train do   not stop at princeton junction .,train
+The controversy brought clearly into focus an important difference of opinion .,focus
+I believe I can bring the high degree of focus required for this important job .,focus
+He was responsible for the procurement of materials and supplies .,procurement
+I have a lot of experience in the procurement of construction materials and sub-contracts .,procurement
+mediate between the old and the new .,mediate
+he mediate a settlement .,mediate
+bring comment .,bring
+bring water to the boiling point .,bring
+All the world 's a stage -- Shakespeare .,stage
+The stage pulled into town carrying the payroll for the mill and three ladies .,stage
+Passing grades account for half of the grades given in this exam .,account
+I ca  not account for the missing money .,account
+To pluck at somebody 's sleeve .,pluck
+he pluck the string of his mandolin .,pluck
+lighten the burden of care for her elderly parent .,lighten
+she lighten the load on the tired donkey .,lighten
+This cup has a chip in it .,chip
+"Potato chip , tortilla chip .",chip
+His trembling was evidence of his fear .,evidence
+There is no evidence that anyone was here earlier .,evidence
+Gurdjieff connects this type of breathing with yogi breathing .,yogi
+it is a yogi trick of some sort .,yogi
+I wonder whether this was the right thing to do .,wonder
+she wonder whether it would snow tonight .,wonder
+The American colony in Paris .,colony
+An artists ' colony .,colony
+A grain of sugar .,grain
+Wheat is a grain that is grown in Kansas .,grain
+His rudeness was inexcusable .,rudeness
+The rudeness of the cabin gave it a rustic charm but little comfort .,rudeness
+The policy so far is all stick and no carrot .,stick
+Cigarettes are taxed at one dollar per stick .,stick
+Injuries have shortened the bench .,bench
+"She placed the workpiece on the bench , inspected it closely , and opened the cover .",bench
+"We should put a cap on the salaries , to keep them under control .",cap
+They established a cap for prices .,cap
+"Quick , grab that umbrella before you get rained on !",umbrella
+An air umbrella over England .,umbrella
+A coat of seal .,seal
+Close the lid tightly to get a good seal .,seal
+stir the soup .,stir
+stir the soil .,stir
+issue a new uniform to the child .,issue
+water issue from the hole in the wall .,issue
+He did not want to subject himself to the judgments of his superiors .,subject
+the sergeant subject the new recruit to many drill .,subject
+His goal was the repression of insolence .,repression
+The long repression of Christian sects .,repression
+Self-confidence is not an endearing property .,property
+The president was concerned about the property across from the White House .,property
+I do  not know what to do -- I may as well flip a coin !,flip
+flip i the beachball .,flip
+The foundation provided support for the experiment .,support
+The policy found little public support .,support
+He was arrested on a charge of larceny .,charge
+That 's a slanderous charge of abuse of trust .,charge
+"The absorption of light , heat , electricity , etc .",absorption
+The absorption of photons by atoms or molecules .,absorption
+His chair sat in a puddle of books and magazines .,puddle
+there be puddle of muddy water in the road after the rain .,puddle
+Give the door a hard push if it sticks .,push
+Let 's give one last push on our advertising campaign .,push
+Ships ply the waters near the coast .,ply
+he ply his ax with bloody result .,ply
+He followed the deer 's slot over the soft turf to the edge of the trees .,slot
+The TV program has a new time slot .,slot
+Let 's recapitulate the main ideas .,recapitulate
+ontogeny recapitulate phylogeny .,recapitulate
+He climbed the steep slope .,slope
+The slope of a parabola increases linearly with x.,slope
+tap beer in a bar .,tap
+he be tap his finger on the table impatiently .,tap
+simmer the sauce .,simmer
+simmer water .,simmer
+past tense .,past
+Reporters dug into the candidate 's past .,past
+mark homework .,mark
+mark my word .,mark
+hide the money .,hide
+Muslim women hide their faces .,hide
+It was a suggestion we could  not refuse .,suggestion
+suggestion often work well than explicit demand .,suggestion
+consolidate one 's hold on first place .,consolidate
+consolidate one 's gain .,consolidate
+"After the shelling , many people lost the ability to remember .",remember
+Some remember better than others .,remember
+instill medication into my eye .,instill
+her presence instill faith into the child .,instill
+"curl my hair , please .",curl
+she curl far down under the cover .,curl
+Put your umbrella in the umbrella holder .,holder
+A towel holder .,holder
+We watch the 7 o'clock news every night .,news
+Did you listen to the news tonight ?,news
+In all thy ways acknowledge Him . - Proverbs 3:6 .,acknowledge
+she acknowledge his complement with a smile .,acknowledge
+He took me into his confidence .,confidence
+"confidence be always borrow , never own .",confidence
+To unload a ship .,unload
+unload the truck .,unload
+gentrify the old center of town .,gentrify
+gentrify a row of old house .,gentrify
+Sailing is her favorite pastime .,pastime
+His main pastime is gambling .,pastime
+loop a rope .,loop
+the bicycle loop around the tree .,loop
+A coarse grind of coffee .,grind
+This bag contains espresso grind .,grind
+Certain insects are said to blow .,blow
+he blow a lot of money on his new home theater .,blow
+The function of a teacher .,function
+The function of an auger is to bore holes .,function
+He cut a square shape out of the cake .,shape
+The vet checked to see what kind of shape the animal was in .,shape
+You must overcome all difficulties .,overcome
+he overcome his infirmity .,overcome
+I need to prime these handrails before we can apply the finish coat .,prime
+prime a cannon .,prime
+He did  not figure her .,figure
+I ca  not figure if he 's telling the truth or lying .,figure
+The rise and fall of the tides .,fall
+A fall from virtue .,fall
+"He 's trying to intimidate you . If you ignore him , hopefully he 'll stop .",intimidate
+her boss intimidate she .,intimidate
+She was the chairperson of the board and she presided over the meeting .,chairperson
+Address your remarks to the chairperson .,chairperson
+pour water over the floor .,pour
+water pour onto the plant .,pour
+play a hooked fish .,play
+she play nervously with her wedding ring .,play
+bootleg tape of the diva 's singing .,bootleg
+they be bootleg whiskey .,bootleg
+I put a drip of vanilla extract in my hot cocoa .,drip
+The constant sound of  drip irritated him .,drip
+plan the new wing of the museum .,plan
+the rebel have plan turmoil and confusion .,plan
+knead dough .,knead
+i knead the dough into a loaf .,knead
+A man of energy and commitment .,commitment
+his business commitment take he to london .,commitment
+It came to a stop at the bottom of the hill .,stop
+the third baseman make some remarkable stop .,stop
+conduct an orchestra .,conduct
+he conduct we to the palace .,conduct
+The bundle was tied with a cord .,cord
+The burglar tied up the victim with a cord .,cord
+The complement of 01100101_2 is 10011011_2 .,complement
+A full complement of workers .,complement
+"He was a pig and his apartment a pigpen ; take-away containers and pizza boxes in a long , moldy stream lined his counter tops .",pig
+the farmer keep a pen with two pig that he feed from table scrap and field waste .,pig
+"Do  not come too close , i have got this nasty complaint .",complaint
+"i have no complaint about the quality of his work , but i do   not enjoy his company .",complaint
+The house gets a percentage of every bet .,house
+They had a large carriage house .,house
+He had a fair trial and the jury found him guilty .,trial
+Most of these complaints are settled before they go to trial .,trial
+The pull up the hill had him breathing harder .,pull
+She took a pull on her cigarette .,pull
+"Human hands have five fingers : the thumb , the forefinger ( or index finger ) , the middle finger , the ring finger and the little finger .",finger
+her finger be long and thin .,finger
+Chicago set the homicide record .,record
+coffee production last year break all previous record .,record
+moderate your alcohol intake .,moderate
+moderate your speed .,moderate
+She scribbled a curve on the paper .,curve
+You should slow down when approaching a curve .,curve
+These anti-depressants potentiate the analgesic action of opiates .,potentiate
+potentiate the drug .,potentiate
+They used the elephants to help put up the circus .,circus
+The children always love to go to the circus .,circus
+It does not matter much .,matter
+it matter that they leave .,matter
+remount a regiment .,remount
+he remount his horse .,remount
+The biggest tree in existence .,existence
+Laws in existence for centuries .,existence
+She was the mother of many offspring .,offspring
+Industrialism prepared the way for acceptance of the French Revolution 's various socialistic offspring .,offspring
+do research .,do
+do nothing .,do
+The crispness of his reply .,crispness
+crispness of new dollar bill .,crispness
+eligibility for a loan .,eligibility
+eligibility of a candidate for office .,eligibility
+The scoreboard shows a little football symbol next to the name of the team that has possession .,possession
+"Back then , people with psychiatric disorders were sometimes thought to be victims of demonic possession .",possession
+The painful gasps of a dying asthmatic .,asthmatic
+She is a chronic asthmatic .,asthmatic
+Actions talk louder than words .,talk
+susan talk with rachel .,talk
+The experience destroyed his trust and personal dignity .,trust
+He put more trust in his own two legs than in the gun .,trust
+He described a refinement of this technique .,refinement
+A man of intellectual refinement .,refinement
+The party went with a bang .,bang
+tiffany have long hair and bang .,bang
+Do  not look in the closet .,look
+look at my new car !,look
+An appeal for help .,appeal
+An appeal to the public to keep calm .,appeal
+He is such a fashion faddist .,faddist
+The faddist magazines have been hyping that lately .,faddist
+I had a feeling that she was lying .,feeling
+I disliked him and the feeling was mutual .,feeling
+The growth of population .,growth
+"Growth was dampened by a softening of the global economy in 2001 , but picked up in the subsequent years due to strong growth in China .",growth
+A spot of bother .,bother
+A bit of a bother .,bother
+An inordinate proportion of the book is given over to quotations .,proportion
+a building of vast proportion .,proportion
+It took time to get into the swing of things .,swing
+The party went with a swing .,swing
+The troops went hungry because of the insufficiency of their supplies .,insufficiency
+point out the insufficiency in my report .,insufficiency
+zap the enemy .,zap
+"If it is not warm in the middle , zap it some more .",zap
+The processing of ore to obtain minerals .,processing
+The processing of newly arrived immigrants .,processing
+I would  not mind an ice cream right now .,mind
+I do  not mind your behavior .,mind
+The twins resemble each other .,resemble
+this paper resemble my own work .,resemble
+A soldier manned the entrance post .,post
+In England they call mail ` the post ' .,post
+He 's coming for a couple of days .,couple
+The engaged couple .,couple
+I can not narrow down the rules for this game .,narrow
+the road narrow .,narrow
+To tread a path .,tread
+She  tread with care as the ground was slippery.,tread
+The company decided to divest .,divest
+the board of trustee divest $ 20 million in real estate property .,divest
+cultivate the land .,cultivate
+cultivate your musical taste .,cultivate
+Please communicate this message to all employees .,communicate
+the disease be mainly communicate via rat and other vermin .,communicate
+lash the horse .,lash
+To lash something to a spar .,lash
+The larvae of some moths spin a web that resembles a carpet .,carpet
+A carpet of flowers .,carpet
+Boys gravitate towards girls at that age .,gravitate
+The stars gravitate towards each other .,gravitate
+The bird had a knot of feathers forming a crest .,knot
+their muscle stand out in knot .,knot
+wipe the blackboard .,wipe
+brian wipe at the counter .,wipe
+He worked both sides of the street .,street
+they walk the street of the small town .,street
+He gave me a dirty look .,look
+if look could kill ...,look
+"After many years as a party leader , she finally ascended to the presidency .",presidency
+Andrew Jackson expanded the power of the presidency beyond what was customary before his time .,presidency
+A den of vice .,den
+An opium den .,den
+He had a vision of the Virgin Mary .,vision
+He had a vision of his own death .,vision
+This should expedite the process .,expedite
+he expedite the search by alphabetize the paper .,expedite
+When icicles start to form on the eaves you know the roads will be icy .,form
+the water form little bead .,form
+Do  not go outside wearing just a t-shirt ; you 'll freeze !,freeze
+it be freeze in here !,freeze
+The air here does not circulate .,circulate
+blood circulate in my vein .,circulate
+They plan to revamp the historical theater in the old downtown .,revamp
+they revamp their old house before sell it .,revamp
+"The artist took a thoughtful toke off the joint , then passed it along .",toke
+the boy take a few toke on a joint .,toke
+I ca  not agree with you !,agree
+they agree about what should be do .,agree
+The device is small enough to wear on your wrist .,device
+He would stoop to any device to win a point .,device
+The lack of consensus reflected differences in theoretical positions .,consensus
+Those rights and obligations are based on an unstated consensus .,consensus
+To aggravate my woes . —Alexander Pope .,aggravate
+The defense made by the prisoner 's counsel did rather aggravate than extenuate his crime . —Addison .,aggravate
+She put down her knitting and went to answer the phone .,knitting
+I find knitting very relaxing .,knitting
+Will this wallpaper adhere to the wall ?,adhere
+the resident of this village adhere to catholicism .,adhere
+I retain this drug for a long time .,retain
+the dam retain the water .,retain
+A cry to arms .,cry
+I heard a cry from afar .,cry
+round the edge .,round
+round the bend .,round
+The spring was broken .,spring
+The spring of a bow .,spring
+A sprinkling of grey at his temples .,sprinkling
+Baptized with a sprinkling of holy water .,sprinkling
+They had to wait a generation for that prejudice to fade .,generation
+Dams were built for the generation of electricity .,generation
+model an airplane .,model
+model the late fashion .,model
+He had pride of ownership in his department .,pride
+He took pride in his work .,pride
+The young prince will soon occupy the throne .,occupy
+he occupy the position of manager .,occupy
+"If there are any rabbits in this park , they keep carefully out of our view .",view
+He took the computer with a view to pawning it .,view
+The ref missed the call . The ball hit the baseline .,baseline
+The established a baseline for the budget .,baseline
+He proposed an elaborate program of public works .,program
+The program lasted more than two hours .,program
+All manner of persons participate .,manner
+His rapid manner of talking .,manner
+The crack of the bat hitting the ball .,crack
+The crack of a whip .,crack
+Please sweep the floor .,sweep
+her new show dog sweep all championship .,sweep
+Troops are ready to go into overdrive as soon as the signal is given .,overdrive
+Melissa 's brain was in overdrive .,overdrive
+The clock had a moon that showed various phases .,moon
+He made a moon lamp that he used as a night light .,moon
+"In unary and k - adic notation in general , zero is the empty string .",zero
+Write 0.0 to indicate a floating point number rather than the integer zero .,zero
+The rocket is now in deceleration .,deceleration
+He initiated deceleration by braking .,deceleration
+He volunteered to taste her latest concoction .,concoction
+It suddenly spewed out a thick green concoction .,concoction
+She offered me a lifeline in my time of grief .,lifeline
+The airlift provided a lifeline for Berlin .,lifeline
+His word was gospel .,gospel
+Newton 's writings were gospel for those who followed .,gospel
+The mechanic 's failure to check the brakes .,failure
+He resented my failure to return his call .,failure
+The course of the river .,course
+We offer seafood as the first course .,course
+The singer held the note too long .,note
+I had to co-sign his note at the bank .,note
+prepare a speech .,prepare
+prepare a report .,prepare
+An array of troops in battle order .,array
+Drawn up in battle array .,array
+Dam buster .,buster
+Crime buster .,buster
+I 'll sell you all three for a hundred dollars .,sell
+he sell his house in january .,sell
+A point is defined by its coordinates .,point
+The point of the arrow was due north .,point
+nick horse .,nick
+i nick myself while i be shaving .,nick
+Lora buttered the toast with unsalted butter .,butter
+lora butter the toast .,butter
+"Using a crayon , the girl made a print of the leaf under the page .",print
+paw print be everywhere .,print
+Two of the receivers ran post patterns .,post
+he set a row of post in the ground and strung barbwire between they .,post
+He uses drugs as a psychological crutch .,crutch
+he walk on crutch for a month until the cast be remove from his leg .,crutch
+skip town .,skip
+he skip a row in the text and so the sentence be incomprehensible .,skip
+He 's in a sweat about exams .,sweat
+sweat pour off his brow .,sweat
+lock the bike to the fence .,lock
+he be lock in a laugh fit .,lock
+A blade of lint on his suit .,blade
+gay young blade brag of their amorous adventure .,blade
+He has a good grasp of accounting practices .,grasp
+A terrible power had her in its grasp .,grasp
+As they say in the trade .,trade
+the skilled trade be the first to organize modern labor union .,trade
+Children acquire language at an amazing rate .,acquire
+i acquire a strong aversion to television .,acquire
+We do  not segregate in this county .,segregate
+this neighborhood be segregate .,segregate
+He is the dean of foreign correspondents .,dean
+dean of the diplomatic corps - a country 's most senior ambassador .,dean
+The third series of Friends aired from 1996 to 1997 .,series
+The harmonic series has been much studied .,series
+"The prisoner tried to flee , but was caught by the guards .",flee
+he throw down his gun and flee .,flee
+The race is to the swift .,race
+some biologist doubt that there be important genetic difference between race of human being .,race
+crisscross the sheet of paper .,crisscross
+wrinkle crisscross her face .,crisscross
+The trees cast a delicate web of shadows over the lawn .,web
+some of that content be now only available on the web .,web
+steep the blossom in oil .,steep
+steep the fruit in alcohol .,steep
+stalk the wood for deer .,stalk
+i stalk the wood for game .,stalk
+The retraction of the landing gear .,retraction
+retraction of the foreskin .,retraction
+To bandy words ( with somebody ) .,bandy
+we bandy around these difficult question .,bandy
+Mulligan 's sentence was commuted from death to transportation .,transportation
+The sentence was one of transportation for life .,transportation
+It is in the center of town .,center
+They were raising money to build a new center for research .,center
+He took a wrong turn on the access to the bridge .,access
+He gained access to the building .,access
+tack the notice on the board .,tack
+he tack together some verse .,tack
+cybernate a factory .,cybernate
+We live in a  cybernate age .,cybernate
+Words like ` conservative ' require periodic redefinition .,redefinition
+She provided a redefinition of his duties .,redefinition
+vice offend the moral standard of the community .,vice
+"Smoking is a vice , not a virtue .",vice
+"Maybe that 's how it works in TV - land , bu not in the real world .",land
+He made it the law of the land .,land
+There was no bar against leaving .,bar
+the window be protect by steel bar .,bar
+"Every integer is a real number , but not vice versa .",real
+A real number can be regarded abstractly as an equivalence class of Cauchy sequences of real numbers .,real
+solve for x .,solve
+solve an equation .,solve
+"The superlative of "" big "" is "" biggest "" .",superlative
+` most surely ' is the superlative of the adverb ` surely ' .,superlative
+The studio had a northern exposure .,exposure
+The exposure of his anger was shocking .,exposure
+This is a strange kind of tobacco .,kind
+what kind of dessert be there ?,kind
+He swore vengeance on the man who betrayed him .,vengeance
+vengeance be mine .,vengeance
+I ca  not hack it anymore .,hack
+he hack his way through the forest .,hack
+file for divorce .,file
+file a complaint .,file
+justify the margin .,justify
+the end justify the mean .,justify
+I suspect him of being the thief .,suspect
+the u.s. suspect bin laden as the mastermind behind the terrorist attack .,suspect
+They struck in support of their claim for a shorter work day .,claim
+His claim asked for damages .,claim
+He changed the arrangement of the topics .,arrangement
+The arrangement of the furniture .,arrangement
+A man of action .,action
+He is out of action .,action
+They kept in daily contact .,contact
+They claimed that they had been in contact with extraterrestrial beings .,contact
+capture the essence of spring .,capture
+capture an idea .,capture
+Your views do  not count here .,count
+count your change .,count
+sensitivity to pain .,sensitivity
+A galvanometer of extreme sensitivity .,sensitivity
+The colors do  not intrude on the viewer .,intrude
+they intrude on our dinner party .,intrude
+The children were playing ball on the beach .,ball
+she kick he in the ball and get away .,ball
+She sent unruly pupils to see the principal .,principal
+"A portion of your mortgage payment goes to reduce the principal , and the rest covers interest .",principal
+row the boat across the lake .,row
+they row the canal of venice .,row
+His responsibilities were a constant strain .,strain
+He created a new strain of sheep .,strain
+The winner was a true sleeper -- no one expected him to get it .,sleeper
+The British call a railroad tie a sleeper .,sleeper
+correct the alignment of the front wheel .,correct
+the stock market correct .,correct
+The scientist must stop to observe and start to excogitate .,excogitate
+excogitate a way to measure the speed of light .,excogitate
+I have only begun to glimpse the magnitude of the problem .,glimpse
+we glimpse the queen as she get into her limousine .,glimpse
+They sought to explode the myth .,explode
+the enemy explode the bridge .,explode
+They said nothing of great interest .,interest
+Primary colors can add interest to a room .,interest
+Is anything the matter ?,matter
+He always took some  read matter with him on the plane .,matter
+Please observe the reaction of these two chemicals .,observe
+she observe that his presentation take up too much time .,observe
+Buddhists believe that suffering is right at the heart of all life .,heart
+The wood at the heart of a tree is the oldest .,heart
+extend a hand .,extend
+extend your backyard .,extend
+Their poor behavior was due to the rawness of the troops .,rawness
+"After taking a cold , rawness of the larynx and trachea come on .",rawness
+The lung cancer patient can not inspire air very well .,inspire
+the patient have trouble inspire .,inspire
+The outcome was in his favor .,favor
+That style is in favor this season .,favor
+coarsen the surface .,coarsen
+Because the wool is poor quality it will coarsen the fabric .,coarsen
+You reek of perfume .,reek
+your fridge reek of egg .,reek
+He came in a close second .,second
+the treasure be 2 minute and 45 second south of here .,second
+What was responsible for the disappearance of the rainforest ?,disappearance
+He regretted the disappearance of Greek from school curricula .,disappearance
+He was numb with shock .,shock
+Whole fields of wheat in shock .,shock
+The whole argument rested on a basis of conjecture .,basis
+He worked on an interim basis .,basis
+A quarter of a pound .,quarter
+the latin quarter .,quarter
+Drugs have become a sickness they can not cure .,sickness
+A great sickness of his judgment .,sickness
+A person of importance .,importance
+The importance of a well-balanced diet .,importance
+Could you convert my dollars into pounds ?,convert
+convert centimeter into inch .,convert
+That salesman must have practiced his fast line of talk .,line
+` let me show you my etchings ' is a rather worn line .,line
+We aim to provide the local community with more green spaces .,provide
+the hostess provide lunch for all the guest .,provide
+score the clay before fire it .,score
+he score a 200 .,score
+To reach one a book .,reach
+This car can reach a speed of 140 miles per hour .,reach
+He took what he wanted and I got the balance .,balance
+The balance of the agreement remains in effect .,balance
+She gave a gasp and fainted .,gasp
+I 'm popping out for a gasp .,gasp
+Nobody has crossed the void since one man died trying three hundred years ago ; it is high time we had another go .,void
+The huge desert  void .,void
+I 'm on a permanent high these days .,high
+Summer temperatures reached an all-time high .,high
+I managed his campaign for governor .,campaign
+An election campaign .,campaign
+His hard work soon attracted the teacher 's notice .,notice
+He gave notice two months before he moved .,notice
+That high a neutron flux would be lethal in seconds .,flux
+The newness and flux of the computer industry .,flux
+Their love left them indifferent to their surroundings .,love
+She was his first love .,love
+The right to equal treatment in the criminal justice system .,treatment
+The treatment of water sewage .,treatment
+The addition of flowers created a pleasing effect .,addition
+The addition of five more items to the agenda will make the meeting unbearably long .,addition
+A harvest of love .,harvest
+They gathered a harvest of examples .,harvest
+divaricate one 's finger .,divaricate
+the road divaricate here .,divaricate
+resign a claim to the throne .,resign
+he resign the crown to follow his heart .,resign
+I know Latin .,know
+this student know her irregular verb .,know
+Their youngest son said grace .,grace
+It has become less common to say grace before having dinner .,grace
+The King will read the proclamation at noon .,read
+Have you read this book ?,read
+cross a horse and a donkey .,cross
+the train cross .,cross
+They wanted to see violence and they got an eyeful .,eyeful
+She was a statuesque redheaded eyeful .,eyeful
+` least famous ' is the superlative degree of the adjective ` famous ' .,superlative
+` fastest ' is the superlative of the adjective ` fast ' .,superlative
+edit film .,edit
+the same family have be edit the influential newspaper for almost 100 year .,edit
+I represent the silent majority .,represent
+the flower represent a young girl .,represent
+A Democrat usually gets the union 's endorsement .,endorsement
+The association announced its endorsement of the policy .,endorsement
+You must vacate your office by tonight .,vacate
+vacate a death sentence .,vacate
+"He grabbed the woman in a chokehold , demanded her cash and jewelry , and then fled .",chokehold
+The president applied a chokehold to labor disputes that inconvenienced the public .,chokehold
+Let 's rent a car .,rent
+we rent our apartment to friend while we be abroad .,rent
+The French try to sell us their image as great lovers .,sell
+the new idea sell well in certain circle .,sell
+Can you express this distance in kilometers ?,express
+Italians express coffee rather than filter it .,express
+Squeeze the orange and some juice will come out .,juice
+digestive juice .,juice
+cast a warm light .,cast
+cast a ballot .,cast
+What 's the matter ?,matter
+several matter to attend to .,matter
+The two groups were similar in content .,content
+They could read to their heart 's content .,content
+rusticate the house in the country .,rusticate
+he be rusticate for his bad behavior .,rusticate
+The lines converge at this point .,converge
+social force converge to bring the fascist back to power .,converge
+"When he struck it with a hammer , there was a loud bang .",bang
+my bang keep get in my eye when i swim .,bang
+He can not carry a tune .,carry
+she carry herself well .,carry
+That 's a lot of wind .,wind
+"As they accelerated onto the motorway , the wind tore the plywood off the car 's roof-rack .",wind
+bury a bone .,bury
+they bury the steal good .,bury
+It was too late for the morning edition .,edition
+The first edition appeared in 1920 .,edition
+"Based on your test scores , you have a rank of 23 .",rank
+The fancy hotel was of the first rank .,rank
+A train of thought .,train
+It led to a train of disasters .,train
+The neurologist pointed to a troubling trough in the pattern of his brain-waves .,trough
+the buoy bob between the crest and trough of the wave move across the bay .,trough
+level the ground .,level
+the hunter level the gun before take a shot .,level
+Every dog has its day .,day
+two day later they leave .,day
+I wo  not stoop to  read other people 's mail .,stoop
+he stoop to tie his shoe - lace .,stoop
+I had a strange feeling in my leg .,feeling
+He had a queasy feeling .,feeling
+Your guests are now in my custody .,custody
+The mother was awarded custody of the children .,custody
+erupt in anger .,erupt
+unrest erupt in the country .,erupt
+I beg to differ !,differ
+the winter schedule differ from the spring schedule .,differ
+I fear the winters in Moscow .,fear
+We should not fear the Communists !,fear
+ligate the artery .,ligate
+the enzyme ligate .,ligate
+Do  not forget the minus sign .,sign
+It was a sign from God .,sign
+Ernest was a historian specializing in the presidency of Herbert Hoover .,presidency
+"In France , a presidency lasts for five years .",presidency
+Do  not forget to shuffle the cards .,shuffle
+the datum packet be shuffle before transmission .,shuffle
+It was created with the conscious aim of answering immediate needs .,aim
+He took aim and fired .,aim
+The wounded lay on stretchers waiting for surgery .,wounded
+They had to leave the wounded where they fell .,wounded
+boil this liquid until it evaporate .,boil
+boil some water in a pan .,boil
+Clinched a victory .,victory
+The general always gets credit for his army 's victory .,victory
+He has virtually no understanding of social cause and effect .,understanding
+There was an understanding between management and the workers .,understanding
+A British term for ` quarry ' is ` stone pit ' .,quarry
+Michelangelo personally quarried marble from the world-famous quarry at Carrara .,quarry
+"For actors , memorizing lines is no game .",game
+"for he , life be all fun and game .",game
+He 's been an account holder with us since 2004 .,holder
+"in 2012 , there be 28 living holder of the victoria cross or the george cross .",holder
+He read a chapter every night before falling asleep .,chapter
+He joined the Atlanta chapter .,chapter
+We put the time of arrival at 8 P.M.,put
+put your thing here .,put
+deflate the air mattress .,deflate
+the balloon deflate .,deflate
+A mother 's love is not easily shaken .,love
+Children need a lot of love .,love
+feed carrot into a food processor .,feed
+her success feed her vanity .,feed
+We age every day -- what a depressing thought !,age
+she age gracefully .,age
+"Psychiatrists , psychologists , social workers and other mental health professionals counsel clients .",counsel
+the lawyer counsel his client to remain silent .,counsel
+The leak gained on the ship 's pumps .,leak
+I have to take a leak .,leak
+"To repair a house , a road , a shoe , or a ship .",repair
+To repair a shattered fortune .,repair
+He ducked behind the garden wall and waited .,wall
+The wall followed the road .,wall
+All parties agree in the expediency of the law .,agree
+they agree about what to do .,agree
+place a phone call .,place
+place emphasis on a certain point .,place
+She went into nursing as a career .,nursing
+Study nursing .,nursing
+It was all for naught .,naught
+All my efforts led to naught .,naught
+From the bow she stared at the mesmerising onrush of the sea where it split and foamed .,onrush
+The explosion interrupted the wild onrush of her thoughts .,onrush
+Market runups are invariably followed by a correction .,correction
+The correction of his vision with eye glasses .,correction
+fumble a grounder .,fumble
+he fumble the key into the lock .,fumble
+An orchard of considerable extent .,extent
+The vast extent of the desert .,extent
+stress be a vasoconstrictor .,stress
+He put the stress on the wrong syllable .,stress
+build a modern nation .,build
+build a million - dollar business .,build
+exchange employee between branch of the company .,exchange
+exchange prisoner .,exchange

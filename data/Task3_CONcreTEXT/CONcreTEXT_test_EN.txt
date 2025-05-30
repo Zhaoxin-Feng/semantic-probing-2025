@@ -1,0 +1,435 @@
+testset_idx	TARGET	POS	INDEX	TEXT	AVG
+1	cook	V	4	a ham is fully cooked when the internal temperature is 160 degrees Fahrenheit ( 71 Celsius ) .	5.83
+2	snuggle	V	6	If you want an animal to snuggle , don 't get a cat that hates to be held . 	4.97
+3	wash	V	4	Wear rubber gloves when washing dishes or using cleaning products . 	6.19
+4	impair	V	6	Alcohol can damage bone marrow and impair platelet function . 	4
+5	prestige	N	9	Remember that relationship is more lasting than accomplishments and prestige . 	2.63
+6	air	N	7	If possible , stay indoors on high air pollution days . 	4.6
+7	activate	V	4	Sitting on a ball activates the core muscles of your back , hips and abdomen . 	4.13
+8	letter	N	5	You can capitalize the first letter of each word if you want . 	5.87
+9	disappoint	V	6	"You may feel that you will disappoint a person if you say "" "" no "" "" . "	3.23
+10	bake	V	13	The destruction of this protein could lead to a loss of volume in baked goods . 	5.33
+11	market	N	10	Find out how long the property has been on the market . 	4.1
+12	nature	N	6	An element is a substance in nature that can not be broken down to any other element or simpler form . 	4.73
+13	person	N	12	The key to small talk is finding a common interest with the person you are talking with . 	6.33
+14	offend	V	12	Have an opinion , but just make sure that you do not offend or turn anyone off . 	3.29
+15	kick	V	7	Do not wave your arms around or kick with your legs ; the dog may perceive these actions as threatening . 	5.84
+16	eye	N	2	Keep an eye on your guinea pig 's weight . 	2.87
+17	field	N	5	Look for grasshoppers in grassy fields , empty lots , or along riverbanks . 	5.74
+18	sleep	V	6	Even if your babies are already sleeping , you need to make sure they are fed . 	6.03
+19	soothe	V	2	Try to soothe your cat before the bath , by giving it a small treat . 	4.19
+20	door	N	3	Keep your car doors locked and your windows rolled up . 	6.45
+21	hit	V	5	It 's hard sometimes to hit a balance between being confident and being vain or self - centered . 	2.27
+22	decorate	V	7	Keep out at least 10 cherries to decorate the cake .	5
+23	game	N	4	Consider playing the board games Monopoly and Life to teach more money skills as well . 	6
+24	head	N	2	Buy a head of cabbage that is firm and compact . 	5.73
+25	betray	V	8	Make sure there 's no possibility they ever betray you to be okay with the rules . 	2.48
+26	wash	V	8	Once you 've scrubbed for two minutes , wash off your skin . 	5.69
+27	success	N	9	The writing degree it not a direct path to success as a writer . 	3.35
+28	cook	V	0	cook her dinner , light some candles , and show her your silken sheets . 	5.6
+29	fascinate	V	4	Autistic people often become fascinated with memorizing categorized facts and figures . 	3.19
+30	wash	V	9	Use mite - proof sheets and pillow covers and wash all of your bedding regularly with hot water . 	6.23
+31	nourish	V	16	Writing is a skill that takes practice , and it ’s a muscle that you can nourish with training . 	2.65
+32	game	N	1	Play games with your dog that mimic chasing prey . 	5.03
+33	prestige	N	6	We chase dreams of money or prestige , when all we really need are comfort and acceptance . 	2.35
+34	advantage	N	5	Tons of students never take advantage of the help opportunities available to them . 	2.42
+35	drown	V	12	It 's important to only set traps underwater so that the animal drowns when trapped . 	5
+36	inspire	V	8	When you ’re cool with yourself , you inspire others to feel the same way . 	2.69
+37	fascinate	V	8	When 's the last time you felt completely fascinated and in your element ? 	2.73
+38	mother	N	12	In some cases , the agency may have specific requirements for surrogate mothers beyond a clean bill of health . 	6.03
+39	adventure	N	7	Taking your kid out for an outdoor adventure can improve her awareness of her surroundings . 	3.53
+40	betray	V	2	If they betray you , your secret society is not so secret anymore ! 	3.63
+41	pollute	V	4	Our waterways are often polluted with industrial waste dumped by corporations . 	5.52
+42	body	N	6	Try to read the horse 's body language before getting too close . 	5.26
+43	hide	V	2	You can hide all of the icons on your desktop by using Terminal commands . 	5
+44	car	N	5	Get regular maintenance on your car to keep it running well . 	6.6
+45	quality	N	5	Confidence is a very attractive quality . 	2.94
+46	danger	N	15	Do not try to stand after an injury , unless you are in immediate physical danger . 	4.45
+47	sleep	V	5	In the morning , after sleeping for hours , your body gets dehydrated . 	6.55
+48	destroy	V	8	The oil from the filter can damage or destroy the mass air flow ( maf ) sensor on vehicles . 	4.73
+49	cook	V	6	Add onions and green peppers and cook for two minutes . 	5.77
+50	wit	N	2	Intelligence and wit can be attractive , but arrogance and snobbery never are . 	3
+51	hinder	V	9	Eating extra calories when not necessary may slow or hinder your weight loss . 	3.58
+52	offend	V	4	If you end up offending people , then they 'll be much less receptive to your criticism . 	3
+53	art	N	2	Once the art gallery opens , the marketing and public relations requirements will not cease . 	5.5
+54	idea	N	5	It 's always a good idea to update your software . 	3.37
+55	danger	N	10	Do not try rewarming the area if it is in danger of refreezing . 	2.94
+56	bake	V	3	When the cheese bakes , it will form a melted , crusty layer on top . 	5.87
+57	people	N	3	Surround yourself with people who make you feel good about yourself . 	5.61
+58	spirit	N	6	a good way to lift your spirits is to do things that you love and keep busy . 	2.19
+59	irritate	V	5	Spicy and acidic foods can irritate the stomach lining , making your whole system more susceptible to problems . 	4.47
+60	agreement	N	12	Make sure you look into the agency 's background before signing any agreements . 	4.74
+61	market	N	5	Street vendors , open air markets and smaller independent shops will all be happy to haggle with you . 	5.26
+62	answer	N	6	Be sure to write your final answer without the negative sign . 	5.45
+63	success	N	2	Remember that success does not guarantee happiness . 	2.81
+64	advantage	N	7	Friends will help remind you to take advantage of your time as much as possible . 	2.48
+65	tamper	V	9	Photo editors allow you to modify your photo without tampering with the original version . 	4.31
+66	agreement	N	5	a judge will enforce an agreement that has been reached . 	3.94
+67	sleep	V	2	You should sleep on a good mattress . 	5.71
+68	mother	N	0	mothers addicted to drugs and continue to use them while pregnant can pass on their addiction to their child . 	6.32
+69	item	N	13	Washing a garment with other ones may cause the solvent to damage other items of clothing . 	5.65
+70	space	N	7	Respect each other ’s privacy and personal space . 	3.4
+71	door	N	12	Fixating on the ideal job you have in your thoughts shuts the door on other opportunities . 	2.94
+72	invest	V	9	If the air in your home feels dry , invest in a humidifier . 	3.9
+73	eat	V	9	You have the urge to cry and whine and eat your feelings , but the calmer side of you knows better . 	3.14
+74	manner	N	8	Have the sword at your side in a manner similar to a baseball bat . 	2.67
+75	war	N	5	They are waging an internal war to recall who they are . 	2.67
+76	hinder	V	13	Not getting enough sleep can affect your concentration and cause memory problems , hindering your learning process . 	3.32
+77	impair	V	2	Cold water impairs the circulation to your leg muscles as you swim . 	3.61
+78	idea	N	8	Don 't be afraid to develop your own ideas and opinions about your art form . 	3
+79	save	V	6	Learn to read a map to save travel time . 	3.26
+80	cuddle	V	3	Whether you 're cuddling with your son or holding your girlfriend 's hand , it 's important to give people affection . 	6.17
+81	home	N	5	Creating a healthy environment at home can help support your weight loss . 	5.43
+82	answer	N	1	Final answers for equations are considered wrong unless you have broken them down to their simplest form . 	5.32
+83	spirit	N	3	Get in the spirit of the holiday season by celebrating your personal relationships . 	2.45
+84	time	N	7	Help people that are having a hard time by talking with them . 	3.03
+85	answer	N	2	Finding the answer is simple even when summing negative numbers . 	4.65
+86	home	N	13	In the $ 100-200 range , you 've got lots of commercially available home recorders .	4.23
+87	soothe	V	9	Confirming what the other person has said can help soothe angry feelings . 	3.52
+88	annoy	V	9	Remember that you 're playing with fire when you annoy people you do n't know . 	3.19
+89	activate	V	2	Eating sweets activates reward centers in the brain , releasing dopamine , which makes people feel good . 	4.79
+90	unit	N	1	Some units have diodes with a power output of 150 milliwatts .	4.79
+91	flirt	V	10	Using your sense of humor is a wonderful way to flirt around . 	3.69
+92	boy	N	12	a 2:1 ratio between boys and girls means that there are 2 boys for every girl .	6.39
+93	kick	V	5	Get a head start and kick the habit ! 	2.52
+94	art	N	14	The main difference is that art schools will tailor their general education classes around art . 	4.55
+95	danger	N	6	If you are concerned about immediate danger , contact your local police department . 	4.29
+96	wash	V	0	wash your face using warm water to help open the pores before cleansing and using the hydrogen peroxide . 	5.93
+97	flirt	V	4	It is important to flirt with the guys you are interested . 	3.48
+98	cuddle	V	5	Set aside time to spend cuddling or petting your dog or cat . 	5.97
+99	unit	N	10	You might find it difficult to rent out your residential units . 	5.53
+100	item	N	3	Socks are essential items in your gym bag . 	5.4
+101	truth	N	6	The best lies have elements of truth in them . 	3.07
+102	part	N	6	Fruits and vegetables are an essential part of a nutritious diet . 	3.67
+103	impair	V	14	Even if you do n’t struggle with alcohol , alcohol can lower inhibitions and impair judgment . 	3.42
+104	suffocate	V	16	a locked storage shed will have good air circulation and won 't be in danger of suffocating people or animals . 	4.83
+105	disappoint	V	4	Will your teacher be disappointed in you ? 	2.71
+106	learn	V	1	Try learning a new language or taking a history class together . 	3.97
+107	chance	N	8	Tensing up during a fall can increase the chances of sustaining an injury . 	2.94
+108	wash	V	4	Glass needs to be washed with soap and warm water . 	6.16
+109	wit	N	5	Insecurity is the enemy of wit . 	1.9
+110	chance	N	6	Washing your hands will decrease any chance of bacteria spreading . 	3.2
+111	chance	N	5	Alcohol abuse may decrease your chances of getting pregnant . 	2.81
+112	nourish	V	6	The placenta is the organ that nourished the baby while it was in the womb . 	4.76
+113	heart	N	10	Finish it off by gluing your centrepiece button into the heart of the flower . 	5.13
+114	hand	N	4	Write the letter by hand only in informal situations . 	5.29
+115	woman	N	13	Men should aim for 13 cups of water each day , where as women should aim to drink nine .	5.76
+116	detest	V	13	It 's a popular way of shooting tequila , even if it 's detested by snobs the world ' round . 	2.97
+117	paint	V	0	paint your walls with warm , vibrant colors . 	5.8
+118	hinder	V	8	Clothing sport suits should be comfortable and not hinder your movements while not looking too baggy or sloppy . 	4.24
+119	betray	V	7	Peter betrayed Jesus but Jesus would never betray Peter . 	3.23
+120	cook	V	6	Make sure all the meat is cooked thoroughly . 	6.34
+121	office	N	4	Visit your teacher 's office to discuss areas you are having trouble with . 	6.71
+122	crisis	N	4	During a mental health crisis , contact a suicide hotline . 	3.2
+123	fascinate	V	2	Guys are fascinated by independent girls . 	2.26
+124	despise	V	2	Almost everybody despises homework , but it 's assigned for a reason . 	2.94
+125	unit	N	5	Both inches and millimeters are units of measurement . 	4.87
+126	letter	N	4	Text messaging , by letter , email , or over the phone breakups are never clear . 	6.45
+127	history	N	2	Read world history and learn about different cultures . 	4.19
+128	manner	N	7	Smile and have a friendly , generous manner toward people . 	3.13
+129	interest	N	5	Make time to pursue new interests with your partner . 	4.03
+130	hope	N	8	Some people cut off the flowers in the hopes that the plant will produce more leaves . 	2.97
+131	disturb	V	2	Spitting could disturb the blood clot that needs to form over the wounded gums . 	4.17
+132	offend	V	6	Do not smother cats or be offended if they hide from you sometimes . 	3.45
+133	quality	N	17	Some producers may charge a little more money because they can or because their stock is high quality . 	3.58
+134	save	V	5	If you 're trying to save space in your refrigerator , go with a sturdy plastic storage bag . 	3.4
+135	fascinate	V	2	Nothing should fascinate you more than the sensation of kissing . 	2.87
+136	honor	N	7	Receiving this award is such an amazing honor . 	2.53
+137	head	N	7	Shift your whole body ( including your head ) to the left . 	6.83
+138	book	N	7	For example , you might read a book , take a bubble bath , or watch a funny movie . 	6.5
+139	street	N	11	As much as possible , avoid walking or biking on busy streets with heavy traffic . 	6.57
+140	cuddle	V	1	Gently cuddle , encourage , communicate approval , so to go a long way to boost the well - being of your children . 	5.93
+141	game	N	9	a long - range rifle allows you to hunt game from a distance . 	5.2
+142	hinder	V	5	Having an underperforming member could hinder your team from reaching the goal . 	3.34
+143	paint	V	0	paint a thin coat of decoupage glue to the back of your comic book scrap . 	5.87
+144	errand	N	7	An oversize tote looks cute for running errands on the weekend . 	4.48
+145	danger	N	11	Reasons to move an injured person before paramedics arrive include potential danger from animals . 	3.65
+146	earth	N	20	Carbon is the sixth element in the periodic table and one of the most vital building blocks for life on earth . 	6.33
+147	chance	N	3	To increase your chances of getting what you want , try starting the task off for them . 	2.94
+148	invest	V	5	Try not to get too invested in who your crush is talking to . 	2.16
+149	fascinate	V	14	Keep your voice energetic and show lots of exaggerated emotion : baby will be fascinated ! 	3.4
+150	air	N	5	Make sure you have fresh air blowing around your face . 	5.53
+151	water	N	12	When you 're learning how to swim , do n't venture into water too deep for you to stand in . 	6.41
+152	bake	V	0	bake the cupcakes for 15 to 18 minutes or until an inserted toothpick in the center comes out clean .	6.21
+153	fear	N	8	Determine if your dog is biting due to fear . 	2.81
+154	movie	N	4	Many cities offer free movie showings at local theaters for weekend festivals and summer nights . 	5.61
+155	suffocate	V	8	The flowers will have room to grow without suffocating another 's roots . 	3.74
+156	spirit	N	4	Gin is an alcoholic spirit made from distilled grain or malt . 	6
+157	answer	N	4	Listen carefully to the answers to see if they really make sense . 	4.77
+158	home	N	7	The ball lands just in front of home plate , making it a matter for the catcher to retrieve the ball . 	4.55
+159	nature	N	16	The theory explains an occurrence , while the law describes a phenomenon under specific circumstances in nature . 	3.42
+160	drown	V	18	a solution of dish soap and water can effectivly kill wasps , as it coats their wings and drowns them . 	5.83
+161	home	N	11	a mortgage is a loan to finance the purchase of your home . 	6.13
+162	hand	N	1	Keep hands and legs moving to stay submerged . 	6.6
+163	invest	V	0	investing time in a relationship is a major indicator of long term commitment . 	3.52
+164	pain	N	7	Take your medications to ease your physical pain . 	4.97
+165	manner	N	8	Enter into conversations in an informed and intelligent manner . 	3.23
+166	adventure	N	10	Step out of your comfort zones , seek out new adventures , and do n’ t be afraid to be spontaneous . 	3.57
+167	hand	N	11	Is this something that i 've heard second or third - hand ? 	2.48
+168	advantage	N	10	If you live in or near a city , take advantage of the cultural offerings . 	2.61
+169	door	N	4	Just knock on the door , introduce yourself , and let them know what the issue is . 	6.7
+170	improve	V	8	Work with your doctor to strategize how to improve blood circulation . 	3.63
+171	city	N	8	Go hiking , biking , explore your local city on foot or play a sport . 	6.13
+172	win	V	2	Your friend won a scholarship and you did n't . 	4.66
+173	detest	V	3	You may have detested pickles growing up , only to find years later that they are n't so bad . 	3.68
+174	interest	N	7	Be yourself and be upfront about your interests and passions . 	3.58
+175	learn	V	0	learn to love black bread . 	2.84
+176	heart	N	14	Make sure to phrase your question in a very specific manner to address the heart of the matter . 	2.42
+177	agreement	N	13	After signing the indemnification agreement , you can sign the legally binding bond agreement . 	5.16
+178	movie	N	5	Distract yourself with books and movies . 	6.3
+179	disturb	V	5	It is important not to disturb the mother in the last few days of pregnancy . 	4.03
+180	betray	V	2	Leading questions betray your assumptions about what happened . 	2.39
+181	manner	N	6	Submit the package in a timely manner . 	3.23
+182	art	N	5	Most schools have several fine arts programs for you to choose from . 	4
+183	success	N	3	Some surgeons achieve success by injecting steroids to the wound after cutting away the keloid . 	4
+184	wash	V	0	wash your hands before handling food . 	6.52
+185	person	N	1	Every person wants to feel special and valued by friends , family , and peers . 	6.26
+186	trouble	N	3	The ants have trouble walking up the slippery surface . 	3.63
+187	time	N	3	Prices change over time as people sell , buy , and speculate . 	4
+188	spirit	N	6	Many of us have a competitive spirit and want to reach our destination quickly . 	2.33
+189	learn	V	5	Puppies will make mistakes when learning new things , so be patient . 	4
+190	betray	V	10	It ’s important to make sure your face doesn ’t betray this information . 	2.33
+191	air	N	8	If the clay comes into contact with the air , it could dry out and start to crumble . 	5.5
+192	dream	N	0	dreams are thought to be unconscious expressions of our inner feelings , thoughts , and ideas . 	3.19
+193	victory	N	5	Washington ’s Battle of Yorktown victory may have been built on the learning he gained from assessing his previous defeats . 	3.87
+194	victim	N	6	Call emergency services or take the victim to the nearest hospital . 	5.77
+195	disturb	V	2	Never intentionally disturb a web without protective clothing and a method of killing the spider . 	4.35
+196	cuddle	V	7	Give your partner plenty of time to cuddle with the baby . 	6
+197	activate	V	7	a large portion of your brain is activated when it learns a new skill . 	4.48
+198	wife	N	4	Remind your kids and wife or significant other that you love them . 	6.45
+199	phase	N	2	The first phase of writing a news article or editorial is pretty similar . 	2.97
+200	field	N	15	The default password is generally “ admin ” and you may leave the User name field blank . 	4.32
+201	fear	N	10	After experiencing a panic attack , some people develop a fear of panic attacks themselves . 	3.7
+202	victim	N	4	Bullies always look for victims who are emotionally vulnerable . 	5
+203	detest	V	10	Ultrasonic generators emit a high - frequency sound that cats detest , but which humans can not hear . 	3.76
+204	disappoint	V	3	Instead of being disappointed in yourself for feeling sad , be proud that you ’re honest about your feelings . 	3.17
+205	snuggle	V	9	Let your child pick out a few books and snuggle on the couch together while you read . 	5.27
+206	heal	V	6	Tattoo artists want your tattoo to heal correctly and look good just as much as you do . 	4.7
+207	despise	V	20	If you have to write a paper about the civil war , pick a historical figure who you admire or despise . 	3.28
+208	cuddle	V	8	Try watching a movie with your partner while cuddling on the couch . 	6.31
+209	people	N	7	If you ’re honourable , you help people because you care , and you do not expect to get paid back . 	4.58
+210	mother	N	19	Write about what your mom means to you , does for you , and what makes her a great mother . 	5.27
+211	advantage	N	6	Your opponent wo n’t have the advantage of multiple shots . 	3.17
+212	heart	N	6	Do i feel deep in my heart that God is asking me to enter this vocation ? 	2.74
+213	heal	V	3	As the sore heals , the scab may crack open and bleed . 	4.77
+214	kick	V	1	Imagine kicking your legs like a dolphin . 	4.83
+215	idea	N	13	Search online for the going rate for the album to get a general idea of how much you spent . 	2.35
+216	kick	V	2	Since horses kick with their back legs , you want to stay as far away from them as possible . 	6.34
+217	decorate	V	3	Consider painting or decorating the sticks once the glue dries . 	5.5
+218	girl	N	2	Is your girl older than 20 years old ?	6.19
+219	thought	N	2	Replace unhappy thoughts with memories of happier times . 	3.3
+220	tamper	V	9	These are the airbag wires and must not be tampered with or unplugged . 	4.48
+221	eye	N	6	The biggest risk with having your eyes open underwater is the possibility of contamination . 	6.5
+222	suffocate	V	6	Though you don ’t want to suffocate her with phone calls , you should give her a quick call . 	2.53
+223	idea	N	3	Use your main ideas and thesis to write your hook . 	3.23
+224	cook	V	10	Transfer the tenderized , seasoned chicken to the grill and cook until done . 	5.65
+225	love	N	8	a pet is another way to bring more love into your life . 	2.77
+226	trouble	N	4	If you are having trouble controlling your alcohol intake , talk to your doctor for help . 	2.77
+227	hit	V	3	Position yourself to hit the ball . 	5.9
+228	snuggle	V	4	No one wants to snuggle with someone who hasn 't showered in three days . 	5.13
+229	dream	N	5	Stay focused on your larger dreams and career goals . 	2.52
+230	book	N	8	There are tests you can do and good books you can read on the topic . 	6.43
+231	betray	V	7	Vampira cocktail manages to be original without betraying the essence of the original 	1.93
+232	quality	N	10	It proves to potential employers that you are of higher quality , competent and professional , and better qualified . 	2.77
+233	mother	N	2	Many surrogate mothers deal with complex emotions during their pregnancies . 	6.23
+234	thrill	V	8	You are not doing what really drives and thrills you . 	2.77
+235	activate	V	5	If Bluetooth is installed and activated you will see the Bluetooth logo in the upper - right screen corner . 	4.16
+236	offend	V	14	People often times do not want to admit that they have done something to offend someone . 	3.41
+237	girl	N	1	Young girls tend to believe that they are not talented enough for math . 	6.48
+238	heart	N	1	The heart pumps blood due to an internal electrical system . 	6.32
+239	destroy	V	5	Physical abuse also extends to destroying your property , hurting pets , denying your basic needs . 	4.71
+240	activate	V	15	Place sensors around your garden , and when a cat comes in , the motion activates a sensor . 	5.42
+241	time	N	4	Teens who spend more time with their parents have higher self - esteem . 	3.9
+242	mother	N	6	With gestational surrogacy , the surrogate mother is not genetically related to the baby . 	6.06
+243	travel	V	2	Gamma rays travel at the speed of light and penetrate through materials and skin tissue much easier . 	4.23
+244	office	N	1	Most offices will be able to train you in first aid and local disaster relief . 	5.29
+245	pizza	N	17	While red sauce is the classic , there are lots of other ways to top a cheese pizza . 	6.16
+246	save	V	6	Gathering your supplies in advance will save you time and energy . 	3.52
+247	tune	N	9	It ’s important to be able to carry a tune and sing on pitch . 	4.45
+248	crisis	N	2	In a crisis situation , the ability to stay calm has great value . 	3.17
+249	head	N	1	The head of newspaper has the final decision on whether or not a story gets printed . 	4.43
+250	field	N	20	To make an electromagnet , an electric current is run through a piece of metal , which creates a magnetic field . 	4.32
+251	fear	N	0	fear of public speaking is one of the most common phobias . 	3.67
+252	thought	N	6	Start a journal to track your thoughts and feelings . 	3.06
+253	mother	N	6	Make a nice basket with a mother 's Day card . 	5.39
+254	travel	V	5	Divide the distance the runner traveled by the number of seconds elapsed . 	4.97
+255	war	N	1	Start wars that you can win . 	4.29
+256	achievement	N	6	Writing out a list of your achievements will help you to recall each one . 	4.13
+257	save	V	0	save the file when prompted . 	5.42
+258	sleep	V	2	Cats love sleeping , having alone time , playing , and cleanliness . 	5.55
+259	earth	N	12	Full moons , and times when the moon is close to the earth , tend to make for especially good fishing . 	6.3
+260	boy	N	16	You can be as prepared as possible when you finally bring your new baby girl or boy home . 	6.06
+261	wit	N	9	If you ’d rather impress people with your sharp wit , that ’s great too . 	3.27
+262	girl	N	10	Online dating is also a great avenue for meeting a girl . 	6
+263	snuggle	V	7	Provide extra bedding so the rats can snuggle down and keep warm . 	5.06
+264	danger	N	9	If your child has been exposed to trauma , danger , or violence , this exposure can affect his behavior . 	4.1
+265	hit	V	6	Consider alternating between projects to avoid hitting a wall of frustration while staying productive . 	3.65
+266	thought	N	2	Observe your thoughts and emotions without judging them harshly . 	2.8
+267	child	N	5	Look for changes in your child 's behavior . 	6.33
+268	water	N	4	Cook rice in boiling water until soft enough to eat . 	6.66
+269	pizza	N	1	Enjoy pizza , French bread , cookies , bagels , and much more . 	6.32
+270	nature	N	10	Law of Evolution describes a phenomenon that was observed throughout nature , but does not explain why evolution occurs . 	4.17
+271	despise	V	11	Some people love a yogurt - based shake , while others despise it . 	2.77
+272	cook	V	3	As the bone cooks it releases juices that flavor the meat . 	5.94
+273	war	N	5	Your primary tactic in the war against fleas should be sanitation . 	3.83
+274	hope	N	5	Do n't pin all your hopes on a single girl . 	2.58
+275	child	N	3	Help adults and children learn to read at your local library . 	6.6
+276	drown	V	2	Do n't drown the ribbon in the solution , but make sure that the entire ribbon is completely coated . 	4.19
+277	nature	N	4	Beware of the ephemeral nature of the web . 	2.19
+278	letter	N	3	For a personal letter , place your address on the upper right hand side of your paper . 	6
+279	space	N	9	Mirrors placed on a wall can make a small space look larger . 	5
+280	detest	V	1	Ants detest coffee grounds and will avoid them if they are able . 	3.45
+281	eat	V	5	Do n’t let your dog eat the meat to avoid the risk of bacterial poisoning . 	6.24
+282	fault	N	6	Realize that abuse is not your fault . 	2.97
+283	eye	N	3	Attach a metal eye hook to each post at 12 inches above the floor .	5.33
+284	body	N	4	Mimic the speakers ’ body language as well to mirror them more closely . 	5.13
+285	heart	N	12	Twitter Keys is a free bookmarklet that makes it simple to add hearts and other symbols to your tweets . 	4.77
+286	wash	V	5	You might be instructed to wash the area with something like dilute chlorhexidine . 	5.3
+287	fault	N	14	You can not recover any losses if you are more than 51 % at fault for the accident .	3.45
+288	vision	N	2	Include the vision and goals of the company as they pertain to the mission statement . 	2.83
+289	pollute	V	3	Energy companies do pollute the planet considerably . 	4.9
+290	item	N	5	Make your own household cleaning items and beauty products . 	5.58
+291	book	N	10	It may seem that anyone can take up writing a book at some point in their lives . 	6.45
+292	door	N	9	Act like an old - fashioned gentleman by holding doors , offering to buy her coffee , or carrying her books . 	6.53
+293	disappoint	V	11	Don ’t be afraid to tell your loved one if he disappointed you . 	3.4
+294	suffocate	V	14	Add a few drops of olive or coconut oil , as this will help suffocate the lice . 	5.13
+295	paint	V	0	paint your nails with regular nail polish . 	5.73
+296	prestige	N	15	It entails lavish or wasteful spending that attempts to show others your level of social prestige . 	2.33
+297	hand	N	10	You can see how this might be dangerous in the hands of an inexperienced trainer . 	4.1
+298	victim	N	4	Your plant may fall victim to diseases such as verticillium wilt . 	2.9
+299	nature	N	4	Because of the social nature of Facebook , people tend to post a lot of personal information . 	2.47
+300	impair	V	2	Smoking also impairs collagen production and degrades skin proteins . 	4.17
+301	dream	N	10	Some apps even check for patterns , or help with dream interpretation . 	3.32
+302	trouble	N	5	The child may also have trouble sleeping and may experience loss of appetite . 	3.13
+303	destroy	V	11	CD4 cells are a type of white blood cell that is destroyed by HIV .	5.27
+304	field	N	15	Has this author been cited as a source by other scholars or experts in the field ? 	2.94
+305	heal	V	9	It may be difficult to forgive anyone else or heal fully from the betrayal . 	2.77
+306	gender	N	7	Remember , the word changes based on gender . 	4.68
+307	child	N	2	Evaluate your child ’s behavior after he has reached his video game time limit . 	5.48
+308	street	N	4	Get lost wandering the streets of a new city . 	6.17
+309	boy	N	4	a lot of younger boys like to wear football or baseball jerseys . 	5.68
+310	tune	N	10	Call him on the phone and sing the happy birthday tune . 	4.97
+311	city	N	2	Looking into city 's regulations is so important . 	5.65
+312	prestige	N	6	Social connections , not money or prestige , are what truly matter . 	2.17
+313	woman	N	6	Your sister is not a young woman anymore . 	5.72
+314	movie	N	6	Perhaps you love watching cheesy horror movies with your friends or playing party games . 	5.39
+315	obey	V	9	Drive carefully , wear your seat belt , and obey speed limits . 	3.35
+316	fascinate	V	5	Maybe you have always been fascinated by numbers and how formulas explain the world in which we live . 	3.03
+317	hit	V	0	hit the gym for 30 minutes after leaving the office .	2.3
+318	bake	V	5	Most traditional Thanksgiving dishes get baked in the oven , so you must plan a coordinated attack .	6.17
+319	annoy	V	5	Ignore the person when they annoy you . 	3.06
+320	paint	V	15	If you want to use a single color on your mask , go ahead and paint the entire surface . 	6.03
+321	gender	N	10	Spend more time with a close friend of the opposite gender . 	5.06
+322	improve	V	4	Take up yoga to improve your flexibility . 	3.3
+323	party	N	5	You should specifically name the parties involved in the service contract . 	4.32
+324	boy	N	1	a boy is helping set up for the school charity and has taken on more than he can handle . 	6.42
+325	pain	N	7	See your doctor if you are experiencing pain or discomfort . 	5.2
+326	honor	N	3	If you have honors and awards to show off , do n't be shy about decorating your office area with certificates . 	4.8
+327	spirit	N	5	In order to summon the spirits , a voodoo doll must be created . 	2.65
+328	girl	N	4	If you want the girl to go crazy for you , then you have to impress her . 	6.17
+329	air	N	7	Open strategic windows so that cooler night air is blowing in throughout the evening . 	6.03
+330	improve	V	5	a healthy diet can help improve your overall health . 	3.13
+331	office	N	3	Microsoft has several office sites both in the United States and around the globe . 	5.94
+332	head	N	14	When i flip a coin , it is just as likely that i flip heads as tails . 	6
+333	hand	N	5	Dry your polish with your hand flat and fingers spread . 	6.48
+334	fear	N	1	Most fears are conquered by devising a plan of action . 	3.2
+335	despise	V	13	God created you to be who you are , so you need not despise your existence . 	2.66
+336	love	N	3	Give your friends love , positivity , and compliments . 	3.4
+337	phase	N	3	Denial is one phase of trauma . 	2.07
+338	nourish	V	3	Eat nutrients that nourish your eyes . 	3.52
+339	wife	N	1	Your wife or husband ultimately wants to know that you 're thinking of them . 	6.65
+340	victim	N	8	Before you can check the airway , the victim needs to be in the right position . 	5.48
+341	obey	V	18	You may want to make your puppy repeat certain actions or commands , especially if he did n't obey . 	4.07
+342	success	N	4	Remind yourself of your successes instead of your failures . 	3.42
+343	hide	V	5	To challenge your dog , hide your dog ’s toy so that it is out of his line of sight . 	5.43
+344	danger	N	7	Make sure that there is no immediate danger of further injury after the car crash . 	4
+345	eye	N	5	Make sure the potato 's eyes are covered with water , or else they will not sprout .	6.06
+346	bake	V	7	Cornbread is also a great companion for baked beans . 	5.52
+347	soothe	V	4	Soups and teas may soothe your throat after long bouts of coughing . 	4.52
+348	chance	N	3	There ’s a chance that your partner is feeling even worse than you are . 	2.94
+349	obey	V	3	Know how to obey authority . 	3.13
+350	cuddle	V	7	Hold hands , kiss , hug , cuddle , snuggle , or wrap arms around shoulders or waists . 	6.06
+351	history	N	10	See a therapist if you have sexual abuse in your history , which may hinder your enjoyment of sexual activity . 	3.45
+352	chance	N	4	There is actually more chance of spreading bacteria or getting bacteria on you when you flush the toilet . 	2.39
+353	obey	V	11	Respecting authority means you recognize that the superior 's authority and obey his or her reasonable rules . 	3.33
+354	vision	N	9	With retinal migraine , you may experience loss of vision in one eye and a headache that starts behind your eyes . 	5.97
+355	errand	N	6	Whenever possible , stand while performing errands or tasks on the computer in order to relieve your back . 	3.97
+356	bake	V	4	To prevent wrinkling of baked goods , cut the parchment paper to fit the container properly . 	5.83
+357	fault	N	24	In tennis if you serve from in front of the line it wo n't count as a point , because it is a foot fault . 	4.71
+358	quality	N	11	Studies have shown that learning mindfulness meditation can significantly improve the quality of your sleep . 	4
+359	space	N	7	Sign your name in ink in the space provided by the four blank lines . 	5.6
+360	learn	V	2	Try to learn new words and phrases every day . 	3.9
+361	destroy	V	7	The fastest , most direct method of destroying the platter is with a hammer . 	5.07
+362	city	N	6	Put flyers around your town or city and try to get the local paper to cover it . 	6.48
+363	fault	N	16	It may be 600 years ( or more or less ) between major earthquakes along a fault .	4.55
+364	victory	N	9	Rebuilding your self - confidence requires recalling your past victories at work , school , or in your personal life . 	2.97
+365	secure	V	5	Place lids on jar and secure tightly . 	4.43
+366	hope	N	6	Tell her about some of your hopes and dreams . 	2.1
+367	thought	N	3	Combat any negative thoughts with positive statements . 	2.87
+368	history	N	5	Your physician knows your medical history and can best advise you regarding potential negative effects . 	5.13
+369	decorate	V	10	Choose two colors of paint for the walls , or decorate each area with different wall decals . 	4.94
+370	child	N	6	Having your attention may encourage your child to focus on an artistic endeavor for a longer period . 	5.74
+371	market	N	3	There is a market for tiger organs to be used in Chinese folk medicine . 	3.23
+372	dream	N	6	When you wake , hold the dream in your mind ’s eye . 	2.7
+373	disturb	V	7	Look near areas where the land was disturbed by construction or natural occurrences that might have washed away the soil . 	4.71
+374	soothe	V	6	Make a playlist of music that soothes and calms you . 	3.61
+375	tamper	V	7	You ca n't tell if someone has tampered with your drink . 	4.76
+376	tune	N	7	Your guitar should now technically be in tune . 	4.42
+377	party	N	11	Choose a host for your party or plan to hold the party yourself . 	4.94
+378	tamper	V	2	Because vegetables tamper with the broth 's flavour , they should be added after it 's finished cooking . 	3.19
+379	vision	N	3	Have a clear vision for the future . 	2.77
+380	tune	N	8	Make a compilation of all of your favorite tunes . 	4.73
+381	body	N	8	Close your eyes and begin to relax your body and your mind . 	5.87
+382	trouble	N	2	Ignoring any trouble in the relationship will likely only make it worse . 	2.73
+383	thrill	V	8	Find a topic that grabs your attention and thrills you . 	3.06
+384	body	N	5	Pay attention to how your body feels right here , right now . 	6
+385	prestige	N	5	Journals range in terms of prestige . 	2.23
+386	war	N	5	They have escaped from civil war in Liberia or Zimbabwe . 	5.57
+387	drown	V	2	Babies can drown if you turn your back for even a second . 	6.37
+388	irritate	V	3	Gastric reflux can irritate the throat and make you more susceptible to bronchitis . 	4.73
+389	heart	N	1	The heart of the artichoke is the only part restaurant chefs use in their recipes . 	6.1
+390	car	N	4	Make sure the infant car seat is installed correctly in the vehicle before the big event . 	6.43
+391	part	N	1	Massage parts of your body that feel numb . 	5.17
+392	market	N	6	If the house was on the market a long time , it may be that the seller is asking too much . 	3.7
+393	book	N	4	You might check out books devoted to the subject . 	6.17
+394	boy	N	6	Confidence is incredibly attractive to both boys and girls . 	5.35
+395	office	N	3	Obtain experience in office and front desk functions . 	5.13
+396	invest	V	2	Think about investing in a retirement property . 	4.3
+397	heal	V	3	If you are healing emotionally , you should consider seeing a mental health professional . 	2.68
+398	wash	V	1	Avoid washing your hands except when they are soiled . 	5.87
+399	hand	N	3	At the left hand lower corner of the screen click on the button . 	4.43
+400	vision	N	2	Check your vision to see if you are seeing blurry or double . 	6.03
+401	space	N	6	Set up your work or study space near a window that gets bright light all day . 	5.13
+402	spirit	N	11	You do n't have to be wealthy to develop a generous spirit . 	1.74
+403	unit	N	4	Determine what type of units the given measure is expressed in . 	5
+404	agreement	N	4	Try to reach an agreement with your spouse on all issues . 	4.13
+405	truth	N	12	An article represents the writer 's opinion , and not a verifiable truth . 	3.24
+406	city	N	11	Street running can be a good escape from a busy , city life . 	5.61
+407	errand	N	13	You have to be able to change the list when needed as new errands are thrown at you . 	4.45
+408	game	N	16	Normal anxiety usually occurs because of something specific , like an upcoming presentation or a big game . 	5.55
+409	lawsuit	N	3	In a typical lawsuit , the defendant frequently brings a motion for summary judgment after discovery has ended . 	4.53
+410	errand	N	2	Do whatever errand is required in the game . 	3.84
+411	market	N	11	There are several different types of battery powered lights on the market . 	4
+412	hope	N	12	Do n’t minimize his feelings but do point out realities and offer hope . 	2.9
+413	boy	N	1	Many boys and men prefer the way girls and women look without makeup as opposed to with it . 	6.1
+414	inspire	V	9	Become an even better version of the hero who inspired you . 	2.66
+415	item	N	3	Never purchase expensive items on impulse . 	5.68
+416	secure	V	8	a clove hitch is a good knot to secure the rope to each tree and prevent slipping . 	4.53
+417	prestige	N	13	Consider what areas of life are most important to you when you consider prestige . 	2.16
+418	history	N	10	Conduct a web check and pay for a simple criminal history check before hiring a bodyguard . 	4.73
+419	improve	V	0	improve your ability to deal with disappointment . 	2.57
+420	nature	N	1	Respect nature and animals . 	5.23
+421	wit	N	10	You can compliment a personality trait , like someone 's wit or sense of humor . 	3.47
+422	activate	V	11	Dancing both gives you a bit of an exercise boost and activates the pleasure centers of your brain . 	3.4
+423	movie	N	8	You can read a book or watch a movie in a native language to get immersed in a culture . 	5.97
+424	achievement	N	5	Do you admire your friend achievements and her outlook on life ? 	3.52
+425	activate	V	7	a large portion of your brain is activated when it learns a new skill . 	3.7
+426	decorate	V	8	Organize the dishes on the table , and decorate for the romantic evening . 	5
+427	nourish	V	3	Do things that nourish your mind and body . 	2.87
+428	letter	N	3	Study the love letters of history 's greatest paramours . 	5.48
+429	art	N	8	Going to the ballet , opera , or art gallery is actually good for you ! 	4.6
+430	time	N	9	Choose a fruit cup instead of fries the next time you eat out . 	2.86
+431	market	N	2	Farmer 's markets are a great way to start a day together . 	6.27
+432	lawsuit	N	4	You must file your lawsuit in a court that has jurisdiction over your case . 	4.6
+433	win	V	2	Instead of winning an argument try to reach a consensus that you and your partner can be happy with . 	3.48
+434	activate	V	5	Also sitting on a ball activates the core muscles of your back , hips and abdomen . 	4.32
